@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Copper: Brass" Enum="Copper_Brass">
+  <CorrosionResistance>9</CorrosionResistance>
+  <Density_kg_per_m3>8500</Density_kg_per_m3>
+  <StackingHeight_m>1.2</StackingHeight_m>
+  <ElasticModulus_GPa>100</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>400</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>19</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>280</YieldStrength_MPa>
+  <Metallic>0.95</Metallic>
+  <Roughness>0.1</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Copper_Brass</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Copper: Brass</Name>
+  <ShortName>CB</ShortName>
+</DesignMaterialDef>

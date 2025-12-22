@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Modern: JA-2" Enum="Propellant_Modern_JA2">
+  <BurnRate_mm_per_s>1.2</BurnRate_mm_per_s>
+  <BurnRateClass>Progressive</BurnRateClass>
+  <Density_kg_per_m3>1650</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>4.6</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <OptimalBarrelLength_mm>6600</OptimalBarrelLength_mm>
+  <SmokeProduction>0.1</SmokeProduction>
+  <TemperatureSensitivity>0.08</TemperatureSensitivity>
+  <ForceConstant_J_per_kg>1150000</ForceConstant_J_per_kg>
+  <Covolume_m3_per_kg>0.00095</Covolume_m3_per_kg>
+  <AdiabaticFlameTemp_K>3380</AdiabaticFlameTemp_K>
+  <SpecificHeatRatio>1.26</SpecificHeatRatio>
+  <BurnRateCoefficient>5E-09</BurnRateCoefficient>
+  <BurnRateExponent>0.7</BurnRateExponent>
+  <Metallic>0</Metallic>
+  <Roughness>0.4</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_Modern_JA2</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Modern: JA-2</Name>
+  <ShortName>PMJA</ShortName>
+</DesignMaterialDef>

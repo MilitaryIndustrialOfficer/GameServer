@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpireDef ID="Democratic Republic" Enum="DemocraticRepublic">
+  <EmpireDefEnum>DemocraticRepublic</EmpireDefEnum>
+  <Name>Democratic Republic</Name>
+  <ShortName>DR</ShortName>
+</EmpireDef>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Rubber: Polybutadiene" Enum="Rubber_Polybutadiene">
+  <Density_kg_per_m3>910</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <ElasticModulus_GPa>0.002</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>true</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>17.5</TensileStrength_MPa>
+  <RollingResistance_Base>0.01</RollingResistance_Base>
+  <RollingResistance_SpeedCoeff>0.12</RollingResistance_SpeedCoeff>
+  <RollingResistance_TempCoeff>-0.001</RollingResistance_TempCoeff>
+  <RollingResistance_PressureCoeff>-0.0003</RollingResistance_PressureCoeff>
+  <FrictionMu_Peak_Dry>0.8</FrictionMu_Peak_Dry>
+  <FrictionMu_Peak_Wet>0.45</FrictionMu_Peak_Wet>
+  <FrictionMu_Peak_Snow>0.2</FrictionMu_Peak_Snow>
+  <FrictionMu_Peak_Mud>0.18</FrictionMu_Peak_Mud>
+  <FrictionMu_SlipSpeedSoftening_Coeff>0.025</FrictionMu_SlipSpeedSoftening_Coeff>
+  <FrictionMu_OptimalTemp_C>28</FrictionMu_OptimalTemp_C>
+  <FrictionMu_TempBandWidth_C>25</FrictionMu_TempBandWidth_C>
+  <ThermalConductivity_W_per_mK>0.2</ThermalConductivity_W_per_mK>
+  <SpecificHeat_J_per_kgK>1750</SpecificHeat_J_per_kgK>
+  <ElongationAtBreak_percent>400</ElongationAtBreak_percent>
+  <Metallic>0</Metallic>
+  <Roughness>0.75</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Rubber_Polybutadiene</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Rubber: Polybutadiene</Name>
+  <ShortName>RP</ShortName>
+</DesignMaterialDef>

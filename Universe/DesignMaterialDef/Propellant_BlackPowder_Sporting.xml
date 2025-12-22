@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Black Powder: Sporting" Enum="Propellant_BlackPowder_Sporting">
+  <BurnRate_mm_per_s>400</BurnRate_mm_per_s>
+  <Density_kg_per_m3>1680</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>2.8</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <SmokeProduction>8</SmokeProduction>
+  <Metallic>0</Metallic>
+  <Roughness>0.7</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_BlackPowder_Sporting</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Black Powder: Sporting</Name>
+  <ShortName>PBPS</ShortName>
+</DesignMaterialDef>

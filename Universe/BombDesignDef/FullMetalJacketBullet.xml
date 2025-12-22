@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BombDesignDef ID="Full Metal Jacket Bullet" Enum="FullMetalJacketBullet">
+  <MinProjectileDiameter_mm>5.56</MinProjectileDiameter_mm>
+  <MaxProjectileDiameter_mm>12.7</MaxProjectileDiameter_mm>
+  <DefaultProjectileDiameter_mm>7.62</DefaultProjectileDiameter_mm>
+  <MinProjectileLength_mm>15</MinProjectileLength_mm>
+  <MaxProjectileLength_mm>40</MaxProjectileLength_mm>
+  <DefaultProjectileLength_mm>25</DefaultProjectileLength_mm>
+  <DefaultProjectileShape>Bullet</DefaultProjectileShape>
+  <DefaultProjectileCoreMaterial>Steel: MildCarbon</DefaultProjectileCoreMaterial>
+  <DefaultProjectileJacketMaterial>Copper: Brass</DefaultProjectileJacketMaterial>
+  <MinProjectileJacketThickness_mm>0.3</MinProjectileJacketThickness_mm>
+  <MaxProjectileJacketThickness_mm>2.5</MaxProjectileJacketThickness_mm>
+  <DefaultProjectileJacketThickness_mm>0.8</DefaultProjectileJacketThickness_mm>
+  <DefaultProjectileBaseType>Flat</DefaultProjectileBaseType>
+  <MinProjectileBoatTailAngle_degrees>5</MinProjectileBoatTailAngle_degrees>
+  <MaxProjectileBoatTailAngle_degrees>12</MaxProjectileBoatTailAngle_degrees>
+  <DefaultProjectileBoatTailAngle_degrees>8</DefaultProjectileBoatTailAngle_degrees>
+  <MinProjectileBoatTailLength_mm>0</MinProjectileBoatTailLength_mm>
+  <MaxProjectileBoatTailLength_mm>8</MaxProjectileBoatTailLength_mm>
+  <DefaultProjectileBoatTailLength_mm>0</DefaultProjectileBoatTailLength_mm>
+  <DefaultCartridgeFuse>None</DefaultCartridgeFuse>
+  <BombDesignDefEnum>FullMetalJacketBullet</BombDesignDefEnum>
+  <Name>Full Metal Jacket Bullet</Name>
+  <ShortName>FMJB</ShortName>
+</BombDesignDef>

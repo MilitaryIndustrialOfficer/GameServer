@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Rubber: Silica Filled Styrene Butadiene" Enum="Rubber_SilicaFilledStyreneButadiene">
+  <Density_kg_per_m3>1200</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <ElasticModulus_GPa>0.0035</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>true</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>14</TensileStrength_MPa>
+  <RollingResistance_Base>0.01</RollingResistance_Base>
+  <RollingResistance_SpeedCoeff>0.1</RollingResistance_SpeedCoeff>
+  <RollingResistance_TempCoeff>-0.00015</RollingResistance_TempCoeff>
+  <RollingResistance_PressureCoeff>-0.00045</RollingResistance_PressureCoeff>
+  <FrictionMu_Peak_Dry>0.95</FrictionMu_Peak_Dry>
+  <FrictionMu_Peak_Wet>0.75</FrictionMu_Peak_Wet>
+  <FrictionMu_Peak_Snow>0.3</FrictionMu_Peak_Snow>
+  <FrictionMu_Peak_Mud>0.25</FrictionMu_Peak_Mud>
+  <FrictionMu_SlipSpeedSoftening_Coeff>0.03</FrictionMu_SlipSpeedSoftening_Coeff>
+  <FrictionMu_OptimalTemp_C>35</FrictionMu_OptimalTemp_C>
+  <FrictionMu_TempBandWidth_C>25</FrictionMu_TempBandWidth_C>
+  <ThermalConductivity_W_per_mK>0.18</ThermalConductivity_W_per_mK>
+  <SpecificHeat_J_per_kgK>1500</SpecificHeat_J_per_kgK>
+  <ElongationAtBreak_percent>400</ElongationAtBreak_percent>
+  <Metallic>0</Metallic>
+  <Roughness>0.65</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Rubber_SilicaFilledStyreneButadiene</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Rubber: Silica Filled Styrene Butadiene</Name>
+  <ShortName>RSFSB</ShortName>
+</DesignMaterialDef>

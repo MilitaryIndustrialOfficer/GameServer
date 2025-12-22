@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EngineDesignDef ID="Medium Diesel Engine" Enum="MediumDieselEngine">
+  <DefaultEngineCycle>FourStroke</DefaultEngineCycle>
+  <DefaultBlockConfiguration>Inline</DefaultBlockConfiguration>
+  <MinCylinderCount>6</MinCylinderCount>
+  <MaxCylinderCount>8</MaxCylinderCount>
+  <DefaultCylinderCount>6</DefaultCylinderCount>
+  <MinBore_mm>105</MinBore_mm>
+  <MaxBore_mm>125</MaxBore_mm>
+  <DefaultBore_mm>115</DefaultBore_mm>
+  <MinStroke_mm>120</MinStroke_mm>
+  <MaxStroke_mm>140</MaxStroke_mm>
+  <DefaultStroke_mm>130</DefaultStroke_mm>
+  <MinClearanceHeight_mm>5</MinClearanceHeight_mm>
+  <MaxClearanceHeight_mm>7</MaxClearanceHeight_mm>
+  <DefaultClearanceHeight_mm>6</DefaultClearanceHeight_mm>
+  <MinEngineMaximumRPM>2500</MinEngineMaximumRPM>
+  <MaxEngineMaximumRPM>3500</MaxEngineMaximumRPM>
+  <DefaultEngineMaximumRPM>3000</DefaultEngineMaximumRPM>
+  <DefaultFuelType>Diesel</DefaultFuelType>
+  <DefaultBlockMaterial>Iron: Cast</DefaultBlockMaterial>
+  <MinCrankshaftDiameter_mm>63</MinCrankshaftDiameter_mm>
+  <MaxCrankshaftDiameter_mm>75</MaxCrankshaftDiameter_mm>
+  <DefaultCrankshaftDiameter_mm>69</DefaultCrankshaftDiameter_mm>
+  <MinRodLengthFactor>1.5</MinRodLengthFactor>
+  <MaxRodLengthFactor>2</MaxRodLengthFactor>
+  <DefaultRodLengthFactor>1.75</DefaultRodLengthFactor>
+  <DefaultCrankshaftMaterial>Steel: Medium Carbon</DefaultCrankshaftMaterial>
+  <DefaultConnectingRodMaterial>Steel: Medium Carbon</DefaultConnectingRodMaterial>
+  <DefaultPistonMaterial>Aluminum: Alloy</DefaultPistonMaterial>
+  <DefaultValveConfiguration>OverheadValve2</DefaultValveConfiguration>
+  <DefaultValveMaterial>Steel: Medium Carbon</DefaultValveMaterial>
+  <DefaultValveSpringMaterial>Steel: High Carbon</DefaultValveSpringMaterial>
+  <EngineDesignDefEnum>MediumDieselEngine</EngineDesignDefEnum>
+  <Name>Medium Diesel Engine</Name>
+  <ShortName>MDE</ShortName>
+</EngineDesignDef>

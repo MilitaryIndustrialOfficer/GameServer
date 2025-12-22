@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Platoon" Enum="Platoon">
+  <UnitTierDefEnum>Platoon</UnitTierDefEnum>
+  <UnitDomainDef>Ground</UnitDomainDef>
+  <Name>Platoon</Name>
+  <ShortName>P</ShortName>
+</UnitTierDef>

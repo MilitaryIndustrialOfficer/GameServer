@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerDef ID="Umpire" Enum="Umpire">
+  <PlayerDefEnum>Umpire</PlayerDefEnum>
+  <Name>Umpire</Name>
+  <ShortName>U</ShortName>
+</PlayerDef>

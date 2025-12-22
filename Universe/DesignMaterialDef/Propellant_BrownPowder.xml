@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Brown Powder" Enum="Propellant_BrownPowder">
+  <BurnRate_mm_per_s>300</BurnRate_mm_per_s>
+  <BurnRateClass>Neutral</BurnRateClass>
+  <Density_kg_per_m3>1640</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>3.6</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <OptimalBarrelLength_mm>350</OptimalBarrelLength_mm>
+  <SmokeProduction>4</SmokeProduction>
+  <TemperatureSensitivity>0.3</TemperatureSensitivity>
+  <BurnRateCoefficient>0.32</BurnRateCoefficient>
+  <BurnRateExponent>0.55</BurnRateExponent>
+  <Metallic>0</Metallic>
+  <Roughness>0.8</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_BrownPowder</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Brown Powder</Name>
+  <ShortName>PBP</ShortName>
+</DesignMaterialDef>

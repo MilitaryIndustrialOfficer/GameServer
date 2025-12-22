@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfessionDef ID="Clerks" Enum="Clerks">
+  <Salary_able>0.1</Salary_able>
+  <Salary_worker>2</Salary_worker>
+  <EducationYears>1</EducationYears>
+  <WorkEffectiveness>2</WorkEffectiveness>
+  <ProfessionDefEnum>Clerks</ProfessionDefEnum>
+  <SocialStrataDef>Lower Strata</SocialStrataDef>
+  <Name>Clerks</Name>
+  <ShortName>C</ShortName>
+</ProfessionDef>

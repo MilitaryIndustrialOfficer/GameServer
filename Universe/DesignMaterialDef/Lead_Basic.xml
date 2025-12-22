@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Lead: Basic" Enum="Lead_Basic">
+  <CorrosionResistance>7</CorrosionResistance>
+  <Density_kg_per_m3>11340</Density_kg_per_m3>
+  <StackingHeight_m>1.2</StackingHeight_m>
+  <ElasticModulus_GPa>14</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>12</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>29</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>8</YieldStrength_MPa>
+  <Metallic>0.9</Metallic>
+  <Roughness>0.4</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Lead_Basic</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Lead: Basic</Name>
+  <ShortName>LB</ShortName>
+</DesignMaterialDef>

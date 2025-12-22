@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Modern: IMR 4895" Enum="Propellant_Modern_IMR4895">
+  <BurnRate_mm_per_s>2.2</BurnRate_mm_per_s>
+  <BurnRateClass>Progressive</BurnRateClass>
+  <Density_kg_per_m3>1580</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>4.2</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <OptimalBarrelLength_mm>600</OptimalBarrelLength_mm>
+  <SmokeProduction>0.2</SmokeProduction>
+  <TemperatureSensitivity>0.15</TemperatureSensitivity>
+  <ForceConstant_J_per_kg>1000000</ForceConstant_J_per_kg>
+  <Covolume_m3_per_kg>0.00092</Covolume_m3_per_kg>
+  <AdiabaticFlameTemp_K>3100</AdiabaticFlameTemp_K>
+  <SpecificHeatRatio>1.24</SpecificHeatRatio>
+  <BurnRateCoefficient>3.8E-09</BurnRateCoefficient>
+  <BurnRateExponent>0.75</BurnRateExponent>
+  <Metallic>0</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_Modern_IMR4895</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Modern: IMR 4895</Name>
+  <ShortName>PMIMR</ShortName>
+</DesignMaterialDef>

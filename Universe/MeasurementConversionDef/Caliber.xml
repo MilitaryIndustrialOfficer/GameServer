@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementConversionDef ID="Caliber" Enum="Caliber">
+  <ConversionToBaseUnit>0.0254</ConversionToBaseUnit>
+  <DisplaySymbol>cal</DisplaySymbol>
+  <DisplayPrecision>3</DisplayPrecision>
+  <PropertySuffixPatterns>
+    <Item>_cal</Item>
+    <Item>_caliber</Item>
+  </PropertySuffixPatterns>
+  <IsCaliberUnit>false</IsCaliberUnit>
+  <MeasurementConversionDefEnum>Caliber</MeasurementConversionDefEnum>
+  <MeasurementCategoryDef>Length</MeasurementCategoryDef>
+  <Name>Caliber</Name>
+  <ShortName>C</ShortName>
+</MeasurementConversionDef>

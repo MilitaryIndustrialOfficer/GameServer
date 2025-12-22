@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTemplateDef ID="Rifle Squad" Enum="RifleSquad">
+  <UnitTemplateDefEnum>RifleSquad</UnitTemplateDefEnum>
+  <Name>UnitTemplateDef Rifle Squad</Name>
+  <ShortName>UTDRS</ShortName>
+</UnitTemplateDef>

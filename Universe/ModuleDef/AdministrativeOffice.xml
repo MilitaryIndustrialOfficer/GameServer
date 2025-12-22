@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModuleDef ID="Administrative Office" Enum="AdministrativeOffice">
+  <LandFootprint_m2>100</LandFootprint_m2>
+  <Stories>1</Stories>
+  <IsExternal>false</IsExternal>
+  <AdministrativeCapacity_seats>10</AdministrativeCapacity_seats>
+  <AdministrativeCapacity_multiplier>1</AdministrativeCapacity_multiplier>
+  <WallThickness_m>0</WallThickness_m>
+  <WallHeight_m>0</WallHeight_m>
+  <ModuleDefEnum>AdministrativeOffice</ModuleDefEnum>
+  <Description>Interior office with desks, filing cabinets, workspace. Administrative capacity for record-keeping, planning, correspondence. Used in palaces, counting houses, casemates.</Description>
+  <Name>Administrative Office</Name>
+  <ShortName>AO</ShortName>
+</ModuleDef>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitDomainDef ID="GroundRail" Enum="GroundRail">
+  <UnitDomainDefEnum>GroundRail</UnitDomainDefEnum>
+  <Name>GroundRail</Name>
+  <ShortName>GR</ShortName>
+</UnitDomainDef>

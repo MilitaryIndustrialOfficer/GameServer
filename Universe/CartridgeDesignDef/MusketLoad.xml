@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CartridgeDesignDef ID="Musket Load" Enum="MusketLoad">
+  <DefaultCaseType>NoCase</DefaultCaseType>
+  <MinCaseBodyDiameter_mm>0</MinCaseBodyDiameter_mm>
+  <MaxCaseBodyDiameter_mm>0</MaxCaseBodyDiameter_mm>
+  <DefaultCaseBodyDiameter_mm>0</DefaultCaseBodyDiameter_mm>
+  <MinCaseLength_mm>0</MinCaseLength_mm>
+  <MaxCaseLength_mm>0</MaxCaseLength_mm>
+  <DefaultCaseLength_mm>0</DefaultCaseLength_mm>
+  <MinCaseWallThickness_mm>0</MinCaseWallThickness_mm>
+  <MaxCaseWallThickness_mm>0</MaxCaseWallThickness_mm>
+  <DefaultCaseWallThickness_mm>0</DefaultCaseWallThickness_mm>
+  <MinCaseNeckDiameter_mm>0</MinCaseNeckDiameter_mm>
+  <MaxCaseNeckDiameter_mm>0</MaxCaseNeckDiameter_mm>
+  <DefaultCaseNeckDiameter_mm>0</DefaultCaseNeckDiameter_mm>
+  <MinCaseShoulderDiameter_mm>0</MinCaseShoulderDiameter_mm>
+  <MaxCaseShoulderDiameter_mm>0</MaxCaseShoulderDiameter_mm>
+  <DefaultCaseShoulderDiameter_mm>0</DefaultCaseShoulderDiameter_mm>
+  <MinCaseHeadToShoulderLength_mm>0</MinCaseHeadToShoulderLength_mm>
+  <MaxCaseHeadToShoulderLength_mm>0</MaxCaseHeadToShoulderLength_mm>
+  <DefaultCaseHeadToShoulderLength_mm>0</DefaultCaseHeadToShoulderLength_mm>
+  <MinCaseShoulderAngle_degrees>0</MinCaseShoulderAngle_degrees>
+  <MaxCaseShoulderAngle_degrees>0</MaxCaseShoulderAngle_degrees>
+  <DefaultCaseShoulderAngle_degrees>0</DefaultCaseShoulderAngle_degrees>
+  <MinOverallLength_mm>15</MinOverallLength_mm>
+  <MaxOverallLength_mm>25</MaxOverallLength_mm>
+  <DefaultOverallLength_mm>20</DefaultOverallLength_mm>
+  <MinPropellantCharge_grams>3</MinPropellantCharge_grams>
+  <MaxPropellantCharge_grams>15</MaxPropellantCharge_grams>
+  <DefaultPropellantCharge_grams>8</DefaultPropellantCharge_grams>
+  <DefaultPropellantMaterial>Propellant: Black Powder: Coarse</DefaultPropellantMaterial>
+  <MinProjectileDiameter_mm>14</MinProjectileDiameter_mm>
+  <MaxProjectileDiameter_mm>20</MaxProjectileDiameter_mm>
+  <DefaultProjectileDiameter_mm>17.5</DefaultProjectileDiameter_mm>
+  <CartridgeDesignDefEnum>MusketLoad</CartridgeDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Musket Load</Name>
+  <ShortName>ML</ShortName>
+</CartridgeDesignDef>

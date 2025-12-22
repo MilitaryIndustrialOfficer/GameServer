@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Body Armor" Enum="BodyArmor">
+  <ArmorDesignDefEnum>BodyArmor</ArmorDesignDefEnum>
+  <Name>Body Armor</Name>
+  <ShortName>BA</ShortName>
+</ArmorDesignDef>

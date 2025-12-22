@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Lead: Alloy" Enum="Lead_Alloy">
+  <CorrosionResistance>7</CorrosionResistance>
+  <Density_kg_per_m3>11200</Density_kg_per_m3>
+  <StackingHeight_m>1.2</StackingHeight_m>
+  <ElasticModulus_GPa>16</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>17</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>28</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>12</YieldStrength_MPa>
+  <Metallic>0.9</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Lead_Alloy</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Lead: Alloy</Name>
+  <ShortName>LA</ShortName>
+</DesignMaterialDef>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Brigade" Enum="Brigade">
+  <UnitTierDefEnum>Brigade</UnitTierDefEnum>
+  <UnitDomainDef>Ground</UnitDomainDef>
+  <Name>Brigade</Name>
+  <ShortName>B</ShortName>
+</UnitTierDef>

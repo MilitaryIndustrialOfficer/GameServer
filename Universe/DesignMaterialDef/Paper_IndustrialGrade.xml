@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Paper: Industrial Grade" Enum="Paper_IndustrialGrade">
+  <CorrosionResistance>1</CorrosionResistance>
+  <Density_kg_per_m3>800</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <ElasticModulus_GPa>3</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>30</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>15</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>21</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.9</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Paper_IndustrialGrade</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Paper: Industrial Grade</Name>
+  <ShortName>PIG</ShortName>
+</DesignMaterialDef>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Open Forest Evergreen Broad" Enum="OpenForestEvergreenBroad">
+  <BiomeClassificationDefEnum>OpenForestEvergreenBroad</BiomeClassificationDefEnum>
+  <Description>Open forest - evergreen broad-leaf. Canopy cover 15-70%.</Description>
+  <Name>Open Forest Evergreen Broad</Name>
+  <ShortName>Open For</ShortName>
+</BiomeClassificationDef>

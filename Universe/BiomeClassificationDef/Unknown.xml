@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Unknown" Enum="Unknown">
+  <BiomeClassificationDefEnum>Unknown</BiomeClassificationDefEnum>
+  <Description>Unknown or unclassified land cover.</Description>
+  <Name>Unknown</Name>
+  <ShortName>Unknown</ShortName>
+</BiomeClassificationDef>

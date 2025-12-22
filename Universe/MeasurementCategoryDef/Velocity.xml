@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementCategoryDef ID="Velocity" Enum="Velocity">
+  <MeasurementCategoryDefEnum>Velocity</MeasurementCategoryDefEnum>
+  <Name>Velocity</Name>
+  <ShortName>V</ShortName>
+</MeasurementCategoryDef>

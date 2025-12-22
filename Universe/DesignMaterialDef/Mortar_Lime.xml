@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Mortar: Lime" Enum="Mortar_Lime">
+  <CorrosionResistance>6</CorrosionResistance>
+  <Density_kg_per_m3>1650</Density_kg_per_m3>
+  <StackingHeight_m>2</StackingHeight_m>
+  <ElasticModulus_GPa>5</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>0.4</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>10</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>2</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.85</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Mortar_Lime</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Yard Storage</StorageCategoryDef>
+  <Name>Mortar: Lime</Name>
+  <ShortName>ML</ShortName>
+</DesignMaterialDef>

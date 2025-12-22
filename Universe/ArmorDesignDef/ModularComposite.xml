@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Modular Composite" Enum="ModularComposite">
+  <ArmorDesignDefEnum>ModularComposite</ArmorDesignDefEnum>
+  <Name>Modular Composite</Name>
+  <ShortName>MC</ShortName>
+</ArmorDesignDef>

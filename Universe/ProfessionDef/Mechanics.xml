@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfessionDef ID="Mechanics" Enum="Mechanics">
+  <Salary_able>0.075</Salary_able>
+  <Salary_worker>1.5</Salary_worker>
+  <EducationYears>1</EducationYears>
+  <WorkEffectiveness>1.2</WorkEffectiveness>
+  <ProfessionDefEnum>Mechanics</ProfessionDefEnum>
+  <SocialStrataDef>Lower Strata</SocialStrataDef>
+  <Name>Mechanics</Name>
+  <ShortName>M</ShortName>
+</ProfessionDef>

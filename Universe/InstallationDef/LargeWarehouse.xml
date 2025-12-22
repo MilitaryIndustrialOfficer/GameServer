@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Large Warehouse" Enum="LargeWarehouse">
+  <ExternalSpace_m2>6000</ExternalSpace_m2>
+  <InternalSpace_m2>15000</InternalSpace_m2>
+  <WallThickness_m>0</WallThickness_m>
+  <WallHeight_m>0</WallHeight_m>
+  <InstallationDefEnum>LargeWarehouse</InstallationDefEnum>
+  <Description>Major storage facility. East India Company scale warehouses.</Description>
+  <Name>Large Warehouse</Name>
+  <ShortName>LW</ShortName>
+</InstallationDef>

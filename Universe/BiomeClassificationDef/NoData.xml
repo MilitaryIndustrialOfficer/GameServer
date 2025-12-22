@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="No Data" Enum="NoData">
+  <BiomeClassificationDefEnum>NoData</BiomeClassificationDefEnum>
+  <Description>No data available for this location.</Description>
+  <Name>No Data</Name>
+  <ShortName>NoData</ShortName>
+</BiomeClassificationDef>

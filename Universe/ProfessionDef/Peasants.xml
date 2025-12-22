@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfessionDef ID="Peasants" Enum="Peasants">
+  <Salary_able>0</Salary_able>
+  <Salary_worker>0</Salary_worker>
+  <EducationYears>0</EducationYears>
+  <WorkEffectiveness>1</WorkEffectiveness>
+  <ProfessionDefEnum>Peasants</ProfessionDefEnum>
+  <SocialStrataDef>Servile Strata</SocialStrataDef>
+  <Name>Peasants</Name>
+  <ShortName>P</ShortName>
+</ProfessionDef>

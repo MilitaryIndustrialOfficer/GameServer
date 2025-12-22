@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Fabric: Silk" Enum="Fabric_Silk">
+  <Density_kg_per_m3>130</Density_kg_per_m3>
+  <StackingHeight_m>4</StackingHeight_m>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <Metallic>0</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Fabric_Silk</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Fabric: Silk</Name>
+  <ShortName>FS</ShortName>
+</DesignMaterialDef>

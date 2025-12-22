@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Palladian Villa" Enum="PalladianVilla">
+  <ExternalSpace_m2>10000</ExternalSpace_m2>
+  <InternalSpace_m2>3000</InternalSpace_m2>
+  <WallThickness_m>0</WallThickness_m>
+  <WallHeight_m>0</WallHeight_m>
+  <InstallationDefEnum>PalladianVilla</InstallationDefEnum>
+  <Description>Neoclassical building with columns and symmetry (1700s-1800s). Examples: Chiswick House (3,000 m²), Villa Rotonda (1,500 m²), Monticello.</Description>
+  <Name>Palladian Villa</Name>
+  <ShortName>PV</ShortName>
+</InstallationDef>

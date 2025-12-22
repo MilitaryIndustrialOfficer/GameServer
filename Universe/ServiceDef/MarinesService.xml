@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceDef ID="Marines Service" Enum="MarinesService">
+  <ServiceDefEnum>MarinesService</ServiceDefEnum>
+  <Name>Marines Service</Name>
+  <ShortName>MS</ShortName>
+</ServiceDef>

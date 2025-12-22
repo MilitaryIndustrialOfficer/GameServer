@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpireDef ID="Warlord State" Enum="WarlordState">
+  <EmpireDefEnum>WarlordState</EmpireDefEnum>
+  <Name>Warlord State</Name>
+  <ShortName>WS</ShortName>
+</EmpireDef>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LandmarkDef ID="MapLabelAngleUp" Enum="MapLabelAngleUp">
+  <TextSize>6</TextSize>
+  <TextAngle>35</TextAngle>
+  <TextAlignment>Center</TextAlignment>
+  <LandmarkDefEnum>MapLabelAngleUp</LandmarkDefEnum>
+  <Name>MapLabelAngleUp</Name>
+  <ShortName>MLAU</ShortName>
+</LandmarkDef>

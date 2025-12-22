@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodCategoryDef ID="Precious Metal" Enum="PreciousMetal">
+  <GoodCategoryDefEnum>PreciousMetal</GoodCategoryDefEnum>
+  <Name>Precious Metal</Name>
+  <ShortName>PM</ShortName>
+</GoodCategoryDef>

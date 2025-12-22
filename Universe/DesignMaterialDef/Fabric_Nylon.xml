@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Fabric: Nylon" Enum="Fabric_Nylon">
+  <Density_kg_per_m3>140</Density_kg_per_m3>
+  <StackingHeight_m>4</StackingHeight_m>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <Metallic>0</Metallic>
+  <Roughness>0.4</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Fabric_Nylon</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Fabric: Nylon</Name>
+  <ShortName>FN</ShortName>
+</DesignMaterialDef>

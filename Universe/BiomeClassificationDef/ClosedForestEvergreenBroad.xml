@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Closed Forest Evergreen Broad" Enum="ClosedForestEvergreenBroad">
+  <BiomeClassificationDefEnum>ClosedForestEvergreenBroad</BiomeClassificationDefEnum>
+  <Description>Closed forest - evergreen broad-leaf (tropical/subtropical). Canopy cover greater than 70%.</Description>
+  <Name>Closed Forest Evergreen Broad</Name>
+  <ShortName>Forest</ShortName>
+</BiomeClassificationDef>

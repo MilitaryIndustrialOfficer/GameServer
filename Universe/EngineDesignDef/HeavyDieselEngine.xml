@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EngineDesignDef ID="Heavy Diesel Engine" Enum="HeavyDieselEngine">
+  <DefaultEngineCycle>FourStroke</DefaultEngineCycle>
+  <DefaultBlockConfiguration>V90</DefaultBlockConfiguration>
+  <MinCylinderCount>8</MinCylinderCount>
+  <MaxCylinderCount>12</MaxCylinderCount>
+  <DefaultCylinderCount>12</DefaultCylinderCount>
+  <MinBore_mm>125</MinBore_mm>
+  <MaxBore_mm>145</MaxBore_mm>
+  <DefaultBore_mm>135</DefaultBore_mm>
+  <MinStroke_mm>140</MinStroke_mm>
+  <MaxStroke_mm>160</MaxStroke_mm>
+  <DefaultStroke_mm>150</DefaultStroke_mm>
+  <MinClearanceHeight_mm>5</MinClearanceHeight_mm>
+  <MaxClearanceHeight_mm>8</MaxClearanceHeight_mm>
+  <DefaultClearanceHeight_mm>6</DefaultClearanceHeight_mm>
+  <MinEngineMaximumRPM>2000</MinEngineMaximumRPM>
+  <MaxEngineMaximumRPM>3000</MaxEngineMaximumRPM>
+  <DefaultEngineMaximumRPM>2500</DefaultEngineMaximumRPM>
+  <DefaultFuelType>Diesel</DefaultFuelType>
+  <DefaultBlockMaterial>Iron: Cast</DefaultBlockMaterial>
+  <MinCrankshaftDiameter_mm>75</MinCrankshaftDiameter_mm>
+  <MaxCrankshaftDiameter_mm>87</MaxCrankshaftDiameter_mm>
+  <DefaultCrankshaftDiameter_mm>81</DefaultCrankshaftDiameter_mm>
+  <MinRodLengthFactor>1.4</MinRodLengthFactor>
+  <MaxRodLengthFactor>1.8</MaxRodLengthFactor>
+  <DefaultRodLengthFactor>1.6</DefaultRodLengthFactor>
+  <DefaultCrankshaftMaterial>Steel: High Carbon</DefaultCrankshaftMaterial>
+  <DefaultConnectingRodMaterial>Steel: High Carbon</DefaultConnectingRodMaterial>
+  <DefaultPistonMaterial>Steel: Medium Carbon</DefaultPistonMaterial>
+  <DefaultValveConfiguration>OverheadCam2</DefaultValveConfiguration>
+  <DefaultValveMaterial>Steel: High Carbon</DefaultValveMaterial>
+  <DefaultValveSpringMaterial>Steel: Alloy: Tool Grade</DefaultValveSpringMaterial>
+  <EngineDesignDefEnum>HeavyDieselEngine</EngineDesignDefEnum>
+  <Name>Heavy Diesel Engine</Name>
+  <ShortName>HDE</ShortName>
+</EngineDesignDef>

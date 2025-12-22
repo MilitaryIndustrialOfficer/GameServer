@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Snow Ice" Enum="SnowIce">
+  <BiomeClassificationDefEnum>SnowIce</BiomeClassificationDefEnum>
+  <Description>Permanent snow or ice cover.</Description>
+  <Name>Snow Ice</Name>
+  <ShortName>Snow</ShortName>
+</BiomeClassificationDef>

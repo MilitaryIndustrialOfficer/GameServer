@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MarketDef ID="Tribes" Enum="Tribes">
+  <MarketDefEnum>Tribes</MarketDefEnum>
+  <Name>Tribes</Name>
+  <ShortName>T</ShortName>
+</MarketDef>

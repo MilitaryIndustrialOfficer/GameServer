@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Glass: Sheet" Enum="Glass_Sheet">
+  <CorrosionResistance>8</CorrosionResistance>
+  <Density_kg_per_m3>2500</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <ElasticModulus_GPa>70</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>50</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>9</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>35</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0</Roughness>
+  <Opacity>0.1</Opacity>
+  <DesignMaterialDefEnum>Glass_Sheet</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Glass: Sheet</Name>
+  <ShortName>GS</ShortName>
+</DesignMaterialDef>

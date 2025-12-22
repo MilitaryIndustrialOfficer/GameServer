@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GearUniformDesignDef ID="Government Worker" Enum="GovernmentWorker">
+  <DefaultUniformConfiguration>TwoPiece</DefaultUniformConfiguration>
+  <DefaultOuterLayer>Jacket</DefaultOuterLayer>
+  <DefaultFastener>Buttons</DefaultFastener>
+  <DefaultSleeveLength>Long</DefaultSleeveLength>
+  <DefaultPantsLength>Full</DefaultPantsLength>
+  <DefaultShirtMaterial>Fabric: Cotton</DefaultShirtMaterial>
+  <DefaultPantsMaterial>Fabric: Wool</DefaultPantsMaterial>
+  <DefaultFittingsMaterial>Copper: Brass</DefaultFittingsMaterial>
+  <DefaultOuterwearMaterial>Fabric: Wool</DefaultOuterwearMaterial>
+  <MinShirtThickness_mm>0.5</MinShirtThickness_mm>
+  <MaxShirtThickness_mm>3</MaxShirtThickness_mm>
+  <DefaultShirtThickness_mm>1.5</DefaultShirtThickness_mm>
+  <MinPantsThickness_mm>1</MinPantsThickness_mm>
+  <MaxPantsThickness_mm>4</MaxPantsThickness_mm>
+  <DefaultPantsThickness_mm>2.5</DefaultPantsThickness_mm>
+  <MinOuterwearThickness_mm>2</MinOuterwearThickness_mm>
+  <MaxOuterwearThickness_mm>6</MaxOuterwearThickness_mm>
+  <DefaultOuterwearThickness_mm>4</DefaultOuterwearThickness_mm>
+  <GearUniformDesignDefEnum>GovernmentWorker</GearUniformDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Government Worker</Name>
+  <ShortName>GW</ShortName>
+</GearUniformDesignDef>

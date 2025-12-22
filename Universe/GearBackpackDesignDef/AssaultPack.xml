@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GearBackpackDesignDef ID="AssaultPack" Enum="AssaultPack">
+  <GearBackpackDesignDefEnum>AssaultPack</GearBackpackDesignDefEnum>
+  <Name>AssaultPack</Name>
+  <ShortName>AP</ShortName>
+</GearBackpackDesignDef>

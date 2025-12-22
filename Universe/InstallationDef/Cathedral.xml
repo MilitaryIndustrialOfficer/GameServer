@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Cathedral" Enum="Cathedral">
+  <ExternalSpace_m2>8000</ExternalSpace_m2>
+  <InternalSpace_m2>6000</InternalSpace_m2>
+  <WallThickness_m>0</WallThickness_m>
+  <WallHeight_m>0</WallHeight_m>
+  <InstallationDefEnum>Cathedral</InstallationDefEnum>
+  <Description>Large Gothic cathedral. Examples: Notre-Dame (5,500 m²), St. Paul's (7,900 m²), Cologne Cathedral.</Description>
+  <Name>Cathedral</Name>
+  <ShortName>C</ShortName>
+</InstallationDef>

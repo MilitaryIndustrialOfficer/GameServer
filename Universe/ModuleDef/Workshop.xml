@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModuleDef ID="Workshop" Enum="Workshop">
+  <LandFootprint_m2>400</LandFootprint_m2>
+  <Stories>1</Stories>
+  <IsExternal>true</IsExternal>
+  <AdministrativeCapacity_seats>0</AdministrativeCapacity_seats>
+  <AdministrativeCapacity_multiplier>0</AdministrativeCapacity_multiplier>
+  <WallThickness_m>0.5</WallThickness_m>
+  <WallHeight_m>6</WallHeight_m>
+  <ModuleDefEnum>Workshop</ModuleDefEnum>
+  <Description>General craft workshop with hand tools. Prototyping, custom work, low volume production.</Description>
+  <Name>Workshop</Name>
+  <ShortName>W</ShortName>
+</ModuleDef>

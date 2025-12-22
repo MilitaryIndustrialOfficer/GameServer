@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Baroque Palace" Enum="BaroquePalace">
+  <ExternalSpace_m2>800000</ExternalSpace_m2>
+  <InternalSpace_m2>60000</InternalSpace_m2>
+  <WallThickness_m>0</WallThickness_m>
+  <WallHeight_m>0</WallHeight_m>
+  <InstallationDefEnum>BaroquePalace</InstallationDefEnum>
+  <Description>Grand ornate palace with wings and courtyards (1600s-1700s). Examples: Versailles (67,000 m²), Schönbrunn (60,000 m²), Winter Palace (60,000 m²).</Description>
+  <Name>Baroque Palace</Name>
+  <ShortName>BP</ShortName>
+</InstallationDef>

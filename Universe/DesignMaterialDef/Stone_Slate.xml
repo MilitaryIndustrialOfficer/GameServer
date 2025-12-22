@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Stone: Slate" Enum="Stone_Slate">
+  <CorrosionResistance>8</CorrosionResistance>
+  <Density_kg_per_m3>2750</Density_kg_per_m3>
+  <StackingHeight_m>2</StackingHeight_m>
+  <ElasticModulus_GPa>55</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>20</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>9</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>90</YieldStrength_MPa>
+  <Metallic>0.01</Metallic>
+  <Roughness>0.75</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Stone_Slate</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Yard Storage</StorageCategoryDef>
+  <Name>Stone: Slate</Name>
+  <ShortName>SS</ShortName>
+</DesignMaterialDef>

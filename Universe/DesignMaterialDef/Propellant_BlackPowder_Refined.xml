@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Black Powder: Refined" Enum="Propellant_BlackPowder_Refined">
+  <BurnRate_mm_per_s>450</BurnRate_mm_per_s>
+  <Density_kg_per_m3>1750</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>3</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <SmokeProduction>8</SmokeProduction>
+  <Metallic>0</Metallic>
+  <Roughness>0.7</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_BlackPowder_Refined</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Black Powder: Refined</Name>
+  <ShortName>PBPR</ShortName>
+</DesignMaterialDef>

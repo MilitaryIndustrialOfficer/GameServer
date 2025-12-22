@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodCategoryDef ID="Intermediate" Enum="Intermediate">
+  <GoodCategoryDefEnum>Intermediate</GoodCategoryDefEnum>
+  <Name>Intermediate</Name>
+  <ShortName>I</ShortName>
+</GoodCategoryDef>

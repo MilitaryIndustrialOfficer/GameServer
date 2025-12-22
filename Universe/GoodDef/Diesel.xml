@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Diesel" Enum="Diesel">
+  <BaseCost_Credits_per_kg>0.4</BaseCost_Credits_per_kg>
+  <HalfLifeDays>3600</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>true</IsFuel>
+  <EnergyContent_MJ_per_kg>42.6</EnergyContent_MJ_per_kg>
+  <StoichiometricAirFuelRatio>14.5</StoichiometricAirFuelRatio>
+  <Density_kg_per_m3>850</Density_kg_per_m3>
+  <StackingHeight_m>0</StackingHeight_m>
+  <IgnitionQualityRating>45</IgnitionQualityRating>
+  <GoodDefEnum>Diesel</GoodDefEnum>
+  <GoodCategoryDef>Energy</GoodCategoryDef>
+  <StorageCategoryDef>Fuel Storage</StorageCategoryDef>
+  <Name>Diesel</Name>
+  <ShortName>D</ShortName>
+</GoodDef>

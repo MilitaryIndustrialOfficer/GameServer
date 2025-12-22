@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SocialStrataDef ID="Servile Strata" Enum="ServileStrata">
+  <SocialStrataDefEnum>ServileStrata</SocialStrataDefEnum>
+  <Name>Servile Strata</Name>
+  <ShortName>SS</ShortName>
+</SocialStrataDef>

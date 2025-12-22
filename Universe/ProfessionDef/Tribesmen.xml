@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfessionDef ID="Tribesmen" Enum="Tribesmen">
+  <Salary_able>0</Salary_able>
+  <Salary_worker>0</Salary_worker>
+  <EducationYears>0</EducationYears>
+  <WorkEffectiveness>0.8</WorkEffectiveness>
+  <ProfessionDefEnum>Tribesmen</ProfessionDefEnum>
+  <SocialStrataDef>Servile Strata</SocialStrataDef>
+  <Name>Tribesmen</Name>
+  <ShortName>T</ShortName>
+</ProfessionDef>

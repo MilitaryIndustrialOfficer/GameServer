@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SectorDef ID="Unemployment Sector" Enum="UnemploymentSector">
+  <SectorDefEnum>UnemploymentSector</SectorDefEnum>
+  <Name>Unemployment Sector</Name>
+  <ShortName>US</ShortName>
+</SectorDef>

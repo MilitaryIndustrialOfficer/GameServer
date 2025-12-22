@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementConversionDef ID="Inches" Enum="Inches">
+  <ConversionToBaseUnit>0.0254</ConversionToBaseUnit>
+  <DisplaySymbol>in</DisplaySymbol>
+  <DisplayPrecision>3</DisplayPrecision>
+  <PropertySuffixPatterns>
+    <Item>_in</Item>
+    <Item>_inch</Item>
+    <Item>_inches</Item>
+  </PropertySuffixPatterns>
+  <IsCaliberUnit>false</IsCaliberUnit>
+  <MeasurementConversionDefEnum>Inches</MeasurementConversionDefEnum>
+  <MeasurementCategoryDef>Length</MeasurementCategoryDef>
+  <Name>Inches</Name>
+  <ShortName>I</ShortName>
+</MeasurementConversionDef>

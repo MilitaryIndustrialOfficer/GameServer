@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Smokeless: Double Base" Enum="Propellant_Smokeless_DoubleBase">
+  <BurnRate_mm_per_s>1.5</BurnRate_mm_per_s>
+  <BurnRateClass>Progressive</BurnRateClass>
+  <Density_kg_per_m3>1600</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>4.9</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <OptimalBarrelLength_mm>700</OptimalBarrelLength_mm>
+  <SmokeProduction>0.3</SmokeProduction>
+  <TemperatureSensitivity>0.12</TemperatureSensitivity>
+  <BurnRateCoefficient>0.62</BurnRateCoefficient>
+  <BurnRateExponent>0.85</BurnRateExponent>
+  <Metallic>0</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_Smokeless_DoubleBase</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Smokeless: Double Base</Name>
+  <ShortName>PSDB</ShortName>
+</DesignMaterialDef>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharacterAttributeDef ID="FieldMedicine" Enum="FieldMedicine">
+  <CharacterAttributeDefEnum>FieldMedicine</CharacterAttributeDefEnum>
+  <Name>FieldMedicine</Name>
+  <ShortName>FM</ShortName>
+</CharacterAttributeDef>

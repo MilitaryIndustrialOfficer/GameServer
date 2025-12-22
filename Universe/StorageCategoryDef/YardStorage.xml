@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StorageCategoryDef ID="Yard Storage" Enum="YardStorage">
+  <CompatibleUpgrades>
+    <Ref>Indoor Storage</Ref>
+  </CompatibleUpgrades>
+  <StorageCategoryDefEnum>YardStorage</StorageCategoryDefEnum>
+  <Name>Yard Storage</Name>
+  <ShortName>YS</ShortName>
+</StorageCategoryDef>

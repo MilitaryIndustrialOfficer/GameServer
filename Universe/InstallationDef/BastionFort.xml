@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Bastion Fort" Enum="BastionFort">
+  <ExternalSpace_m2>40000</ExternalSpace_m2>
+  <InternalSpace_m2>6000</InternalSpace_m2>
+  <WallThickness_m>5</WallThickness_m>
+  <WallHeight_m>10</WallHeight_m>
+  <InstallationDefEnum>BastionFort</InstallationDefEnum>
+  <Description>Modern fortification with angled bastions (trace italienne). Examples: Fort McHenry (18,000 m²), Bourtange (40,000 m²), Neuf-Brisach (330,000 m²).</Description>
+  <Name>Bastion Fort</Name>
+  <ShortName>BF</ShortName>
+</InstallationDef>

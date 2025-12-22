@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EngineDesignDef ID="Medium Gasoline Engine" Enum="MediumGasolineEngine">
+  <DefaultEngineCycle>FourStroke</DefaultEngineCycle>
+  <DefaultBlockConfiguration>V90</DefaultBlockConfiguration>
+  <MinCylinderCount>6</MinCylinderCount>
+  <MaxCylinderCount>8</MaxCylinderCount>
+  <DefaultCylinderCount>8</DefaultCylinderCount>
+  <MinBore_mm>90</MinBore_mm>
+  <MaxBore_mm>110</MaxBore_mm>
+  <DefaultBore_mm>100</DefaultBore_mm>
+  <MinStroke_mm>80</MinStroke_mm>
+  <MaxStroke_mm>100</MaxStroke_mm>
+  <DefaultStroke_mm>90</DefaultStroke_mm>
+  <MinClearanceHeight_mm>9</MinClearanceHeight_mm>
+  <MaxClearanceHeight_mm>13</MaxClearanceHeight_mm>
+  <DefaultClearanceHeight_mm>11</DefaultClearanceHeight_mm>
+  <MinEngineMaximumRPM>4500</MinEngineMaximumRPM>
+  <MaxEngineMaximumRPM>5500</MaxEngineMaximumRPM>
+  <DefaultEngineMaximumRPM>5000</DefaultEngineMaximumRPM>
+  <DefaultFuelType>Gasoline</DefaultFuelType>
+  <DefaultBlockMaterial>Iron: Cast</DefaultBlockMaterial>
+  <MinCrankshaftDiameter_mm>54</MinCrankshaftDiameter_mm>
+  <MaxCrankshaftDiameter_mm>66</MaxCrankshaftDiameter_mm>
+  <DefaultCrankshaftDiameter_mm>60</DefaultCrankshaftDiameter_mm>
+  <MinRodLengthFactor>1.5</MinRodLengthFactor>
+  <MaxRodLengthFactor>2</MaxRodLengthFactor>
+  <DefaultRodLengthFactor>1.75</DefaultRodLengthFactor>
+  <DefaultCrankshaftMaterial>Steel: Medium Carbon</DefaultCrankshaftMaterial>
+  <DefaultConnectingRodMaterial>Steel: Medium Carbon</DefaultConnectingRodMaterial>
+  <DefaultPistonMaterial>Aluminum: Alloy</DefaultPistonMaterial>
+  <DefaultValveConfiguration>OverheadValve2</DefaultValveConfiguration>
+  <DefaultValveMaterial>Steel: Medium Carbon</DefaultValveMaterial>
+  <DefaultValveSpringMaterial>Steel: High Carbon</DefaultValveSpringMaterial>
+  <EngineDesignDefEnum>MediumGasolineEngine</EngineDesignDefEnum>
+  <Name>Medium Gasoline Engine</Name>
+  <ShortName>MGE</ShortName>
+</EngineDesignDef>

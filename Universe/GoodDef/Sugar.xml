@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Sugar" Enum="Sugar">
+  <BaseCost_Credits_per_kg>2</BaseCost_Credits_per_kg>
+  <HalfLifeDays>3600</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>850</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <GoodDefEnum>Sugar</GoodDefEnum>
+  <GoodCategoryDef>Food</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Sugar</Name>
+  <ShortName>S</ShortName>
+</GoodDef>

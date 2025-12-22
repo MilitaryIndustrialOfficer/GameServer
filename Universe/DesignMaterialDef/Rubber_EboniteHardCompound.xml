@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Rubber: Ebonite Hard Compound" Enum="Rubber_EboniteHardCompound">
+  <Density_kg_per_m3>1215</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <ElasticModulus_GPa>1.65</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>21</TensileStrength_MPa>
+  <RollingResistance_Base>0.02</RollingResistance_Base>
+  <RollingResistance_SpeedCoeff>0.08</RollingResistance_SpeedCoeff>
+  <RollingResistance_TempCoeff>-0.0005</RollingResistance_TempCoeff>
+  <RollingResistance_PressureCoeff>-0.0001</RollingResistance_PressureCoeff>
+  <FrictionMu_Peak_Dry>0.55</FrictionMu_Peak_Dry>
+  <FrictionMu_Peak_Wet>0.4</FrictionMu_Peak_Wet>
+  <FrictionMu_Peak_Snow>0.2</FrictionMu_Peak_Snow>
+  <FrictionMu_Peak_Mud>0.15</FrictionMu_Peak_Mud>
+  <FrictionMu_SlipSpeedSoftening_Coeff>0.003</FrictionMu_SlipSpeedSoftening_Coeff>
+  <FrictionMu_OptimalTemp_C>30</FrictionMu_OptimalTemp_C>
+  <FrictionMu_TempBandWidth_C>10</FrictionMu_TempBandWidth_C>
+  <ThermalConductivity_W_per_mK>0.425</ThermalConductivity_W_per_mK>
+  <SpecificHeat_J_per_kgK>1300</SpecificHeat_J_per_kgK>
+  <ElongationAtBreak_percent>25</ElongationAtBreak_percent>
+  <Metallic>0</Metallic>
+  <Roughness>0.5</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Rubber_EboniteHardCompound</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Rubber: Ebonite Hard Compound</Name>
+  <ShortName>REHC</ShortName>
+</DesignMaterialDef>

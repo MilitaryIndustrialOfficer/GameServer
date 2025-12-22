@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopStatusDef ID="Starvation" Enum="Starvation">
+  <PopStatusDefEnum>Starvation</PopStatusDefEnum>
+  <Name>Starvation</Name>
+  <ShortName>S</ShortName>
+</PopStatusDef>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Aluminum: Alloy" Enum="Aluminum_Alloy">
+  <CorrosionResistance>6</CorrosionResistance>
+  <Density_kg_per_m3>2700</Density_kg_per_m3>
+  <StackingHeight_m>1.2</StackingHeight_m>
+  <ElasticModulus_GPa>70</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>450</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>23</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>315</YieldStrength_MPa>
+  <Metallic>0.95</Metallic>
+  <Roughness>0.2</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Aluminum_Alloy</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Aluminum: Alloy</Name>
+  <ShortName>AA</ShortName>
+</DesignMaterialDef>

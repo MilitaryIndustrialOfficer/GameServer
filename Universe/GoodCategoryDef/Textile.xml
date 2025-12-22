@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodCategoryDef ID="Textile" Enum="Textile">
+  <GoodCategoryDefEnum>Textile</GoodCategoryDefEnum>
+  <Name>Textile</Name>
+  <ShortName>T</ShortName>
+</GoodCategoryDef>

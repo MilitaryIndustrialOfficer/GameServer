@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EngineDesignDef ID="Light Diesel Engine" Enum="LightDieselEngine">
+  <DefaultEngineCycle>FourStroke</DefaultEngineCycle>
+  <DefaultBlockConfiguration>Inline</DefaultBlockConfiguration>
+  <MinCylinderCount>4</MinCylinderCount>
+  <MaxCylinderCount>6</MaxCylinderCount>
+  <DefaultCylinderCount>4</DefaultCylinderCount>
+  <MinBore_mm>85</MinBore_mm>
+  <MaxBore_mm>105</MaxBore_mm>
+  <DefaultBore_mm>95</DefaultBore_mm>
+  <MinStroke_mm>90</MinStroke_mm>
+  <MaxStroke_mm>110</MaxStroke_mm>
+  <DefaultStroke_mm>100</DefaultStroke_mm>
+  <MinClearanceHeight_mm>4</MinClearanceHeight_mm>
+  <MaxClearanceHeight_mm>7</MaxClearanceHeight_mm>
+  <DefaultClearanceHeight_mm>5</DefaultClearanceHeight_mm>
+  <MinEngineMaximumRPM>3000</MinEngineMaximumRPM>
+  <MaxEngineMaximumRPM>4000</MaxEngineMaximumRPM>
+  <DefaultEngineMaximumRPM>3500</DefaultEngineMaximumRPM>
+  <DefaultFuelType>Diesel</DefaultFuelType>
+  <DefaultBlockMaterial>Iron: Cast</DefaultBlockMaterial>
+  <MinCrankshaftDiameter_mm>50</MinCrankshaftDiameter_mm>
+  <MaxCrankshaftDiameter_mm>70</MaxCrankshaftDiameter_mm>
+  <DefaultCrankshaftDiameter_mm>57</DefaultCrankshaftDiameter_mm>
+  <MinRodLengthFactor>1.5</MinRodLengthFactor>
+  <MaxRodLengthFactor>2</MaxRodLengthFactor>
+  <DefaultRodLengthFactor>1.75</DefaultRodLengthFactor>
+  <DefaultCrankshaftMaterial>Steel: Medium Carbon</DefaultCrankshaftMaterial>
+  <DefaultConnectingRodMaterial>Steel: Medium Carbon</DefaultConnectingRodMaterial>
+  <DefaultPistonMaterial>Aluminum: Alloy</DefaultPistonMaterial>
+  <DefaultValveConfiguration>OverheadValve2</DefaultValveConfiguration>
+  <DefaultValveMaterial>Steel: Medium Carbon</DefaultValveMaterial>
+  <DefaultValveSpringMaterial>Steel: High Carbon</DefaultValveSpringMaterial>
+  <EngineDesignDefEnum>LightDieselEngine</EngineDesignDefEnum>
+  <Name>Light Diesel Engine</Name>
+  <ShortName>LDE</ShortName>
+</EngineDesignDef>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Unit ID="HS Company 1st Marines">
+  <OrganicSuperior>1st Marines</OrganicSuperior>
+  <UnitTierDef>Company</UnitTierDef>
+  <PopDef>American</PopDef>
+  <Empire>USA</Empire>
+  <Name>H&amp;S Company, 1st Marines</Name>
+  <ShortName>H&amp;S/1</ShortName>
+</Unit>

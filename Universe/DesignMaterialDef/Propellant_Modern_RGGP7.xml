@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Modern: RGGP-7" Enum="Propellant_Modern_RGGP7">
+  <BurnRate_mm_per_s>1.4</BurnRate_mm_per_s>
+  <BurnRateClass>Progressive</BurnRateClass>
+  <Density_kg_per_m3>1620</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>4.4</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <OptimalBarrelLength_mm>6000</OptimalBarrelLength_mm>
+  <SmokeProduction>0.15</SmokeProduction>
+  <TemperatureSensitivity>0.12</TemperatureSensitivity>
+  <ForceConstant_J_per_kg>1080000</ForceConstant_J_per_kg>
+  <Covolume_m3_per_kg>0.00098</Covolume_m3_per_kg>
+  <AdiabaticFlameTemp_K>3250</AdiabaticFlameTemp_K>
+  <SpecificHeatRatio>1.25</SpecificHeatRatio>
+  <BurnRateCoefficient>4.2E-09</BurnRateCoefficient>
+  <BurnRateExponent>0.68</BurnRateExponent>
+  <Metallic>0</Metallic>
+  <Roughness>0.5</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_Modern_RGGP7</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Modern: RGGP-7</Name>
+  <ShortName>PMRGGP</ShortName>
+</DesignMaterialDef>

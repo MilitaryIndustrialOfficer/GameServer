@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Light Steel Plate" Enum="LightSteelPlate">
+  <ArmorDesignDefEnum>LightSteelPlate</ArmorDesignDefEnum>
+  <Name>Light Steel Plate</Name>
+  <ShortName>LSP</ShortName>
+</ArmorDesignDef>

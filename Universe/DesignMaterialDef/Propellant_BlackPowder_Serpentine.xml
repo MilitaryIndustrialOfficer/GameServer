@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Black Powder: Serpentine" Enum="Propellant_BlackPowder_Serpentine">
+  <BurnRate_mm_per_s>1000</BurnRate_mm_per_s>
+  <BurnRateClass>Degressive</BurnRateClass>
+  <Density_kg_per_m3>1550</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>3</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <OptimalBarrelLength_mm>600</OptimalBarrelLength_mm>
+  <SmokeProduction>10</SmokeProduction>
+  <TemperatureSensitivity>0.8</TemperatureSensitivity>
+  <BurnRateCoefficient>0.15</BurnRateCoefficient>
+  <BurnRateExponent>0.3</BurnRateExponent>
+  <Metallic>0</Metallic>
+  <Roughness>0.9</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_BlackPowder_Serpentine</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Black Powder: Serpentine</Name>
+  <ShortName>PBPS</ShortName>
+</DesignMaterialDef>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Wood: Treated" Enum="Wood_Treated">
+  <CorrosionResistance>5</CorrosionResistance>
+  <Density_kg_per_m3>550</Density_kg_per_m3>
+  <StackingHeight_m>5</StackingHeight_m>
+  <ElasticModulus_GPa>11</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>100</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>3.8</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>70</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.7</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Wood_Treated</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Wood: Treated</Name>
+  <ShortName>WT</ShortName>
+</DesignMaterialDef>

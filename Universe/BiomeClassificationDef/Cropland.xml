@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Cropland" Enum="Cropland">
+  <BiomeClassificationDefEnum>Cropland</BiomeClassificationDefEnum>
+  <Description>Cropland - agricultural areas, cultivated land.</Description>
+  <Name>Cropland</Name>
+  <ShortName>Crops</ShortName>
+</BiomeClassificationDef>

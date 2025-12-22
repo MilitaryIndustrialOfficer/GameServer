@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitDomainDef ID="Naval" Enum="Naval">
+  <UnitDomainDefEnum>Naval</UnitDomainDefEnum>
+  <Name>Naval</Name>
+  <ShortName>N</ShortName>
+</UnitDomainDef>

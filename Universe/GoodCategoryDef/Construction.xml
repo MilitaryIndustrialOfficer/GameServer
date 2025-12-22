@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodCategoryDef ID="Construction" Enum="Construction">
+  <GoodCategoryDefEnum>Construction</GoodCategoryDefEnum>
+  <Name>Construction</Name>
+  <ShortName>C</ShortName>
+</GoodCategoryDef>

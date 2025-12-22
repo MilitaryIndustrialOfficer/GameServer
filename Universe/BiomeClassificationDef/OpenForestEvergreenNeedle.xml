@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Open Forest Evergreen Needle" Enum="OpenForestEvergreenNeedle">
+  <BiomeClassificationDefEnum>OpenForestEvergreenNeedle</BiomeClassificationDefEnum>
+  <Description>Open forest - evergreen needle-leaf. Canopy cover 15-70%.</Description>
+  <Name>Open Forest Evergreen Needle</Name>
+  <ShortName>Open For</ShortName>
+</BiomeClassificationDef>

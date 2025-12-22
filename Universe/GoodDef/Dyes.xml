@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Dyes" Enum="Dyes">
+  <BaseCost_Credits_per_kg>1</BaseCost_Credits_per_kg>
+  <HalfLifeDays>1800</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>800</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <GoodDefEnum>Dyes</GoodDefEnum>
+  <GoodCategoryDef>Textile</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Dyes</Name>
+  <ShortName>D</ShortName>
+</GoodDef>

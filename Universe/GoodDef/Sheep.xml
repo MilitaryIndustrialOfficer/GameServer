@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Sheep" Enum="Sheep">
+  <BaseCost_Credits_per_kg>3</BaseCost_Credits_per_kg>
+  <IsFood>false</IsFood>
+  <IsLivestock>true</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>75</Density_kg_per_m3>
+  <StackingHeight_m>0</StackingHeight_m>
+  <GoodDefEnum>Sheep</GoodDefEnum>
+  <GoodCategoryDef>Livestock</GoodCategoryDef>
+  <StorageCategoryDef>Livestock Storage</StorageCategoryDef>
+  <Name>Sheep</Name>
+  <ShortName>S</ShortName>
+</GoodDef>

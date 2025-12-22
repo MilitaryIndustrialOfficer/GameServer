@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GearBootsDesignDef ID="Combat Boots" Enum="CombatBoots">
+  <DefaultUpperMaterial>Leather: Treated</DefaultUpperMaterial>
+  <DefaultSoleMaterial>Rubber: Synthetic</DefaultSoleMaterial>
+  <DefaultHardwareMaterial>Steel: Stainless</DefaultHardwareMaterial>
+  <MinSoleThickness_mm>20</MinSoleThickness_mm>
+  <MaxSoleThickness_mm>40</MaxSoleThickness_mm>
+  <DefaultSoleThickness_mm>30</DefaultSoleThickness_mm>
+  <MinUpperThickness_mm>3</MinUpperThickness_mm>
+  <MaxUpperThickness_mm>10</MaxUpperThickness_mm>
+  <DefaultUpperThickness_mm>6</DefaultUpperThickness_mm>
+  <GearBootsDesignDefEnum>CombatBoots</GearBootsDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Combat Boots</Name>
+  <ShortName>CB</ShortName>
+</GearBootsDesignDef>

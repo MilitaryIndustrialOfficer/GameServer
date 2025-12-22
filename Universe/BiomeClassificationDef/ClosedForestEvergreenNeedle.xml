@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Closed Forest Evergreen Needle" Enum="ClosedForestEvergreenNeedle">
+  <BiomeClassificationDefEnum>ClosedForestEvergreenNeedle</BiomeClassificationDefEnum>
+  <Description>Closed forest - evergreen needle-leaf (boreal/taiga conifers). Canopy cover greater than 70%.</Description>
+  <Name>Closed Forest Evergreen Needle</Name>
+  <ShortName>Forest</ShortName>
+</BiomeClassificationDef>

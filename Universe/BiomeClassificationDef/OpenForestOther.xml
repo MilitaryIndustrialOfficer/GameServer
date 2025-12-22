@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Open Forest Other" Enum="OpenForestOther">
+  <BiomeClassificationDefEnum>OpenForestOther</BiomeClassificationDefEnum>
+  <Description>Open forest - other/unspecified type. Canopy cover 15-70%.</Description>
+  <Name>Open Forest Other</Name>
+  <ShortName>Open For</ShortName>
+</BiomeClassificationDef>

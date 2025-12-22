@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfessionDef ID="Rebels" Enum="Rebels">
+  <Salary_able>0</Salary_able>
+  <Salary_worker>0</Salary_worker>
+  <EducationYears>0</EducationYears>
+  <WorkEffectiveness>0.9</WorkEffectiveness>
+  <ProfessionDefEnum>Rebels</ProfessionDefEnum>
+  <SocialStrataDef>Criminal Strata</SocialStrataDef>
+  <Name>Rebels</Name>
+  <ShortName>R</ShortName>
+</ProfessionDef>

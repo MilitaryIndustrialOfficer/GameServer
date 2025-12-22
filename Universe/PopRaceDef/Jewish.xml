@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopRaceDef ID="Jewish" Enum="Jewish">
+  <BaseAnnualBirthRate>0.24</BaseAnnualBirthRate>
+  <HasPointyEars>false</HasPointyEars>
+  <MaturityAgeMin>15</MaturityAgeMin>
+  <MaxAge>100</MaxAge>
+  <ReproductiveAgeMax>48</ReproductiveAgeMax>
+  <ReproductiveAgeMin>16</ReproductiveAgeMin>
+  <PopRaceDefEnum>Jewish</PopRaceDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Jewish</Name>
+  <ShortName>J</ShortName>
+</PopRaceDef>

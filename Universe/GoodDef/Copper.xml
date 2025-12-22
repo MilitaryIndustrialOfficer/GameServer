@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Copper" Enum="Copper">
+  <BaseCost_Credits_per_kg>0.36</BaseCost_Credits_per_kg>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>8900</Density_kg_per_m3>
+  <StackingHeight_m>1.5</StackingHeight_m>
+  <GoodDefEnum>Copper</GoodDefEnum>
+  <GoodCategoryDef>Metal</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Copper</Name>
+  <ShortName>C</ShortName>
+</GoodDef>

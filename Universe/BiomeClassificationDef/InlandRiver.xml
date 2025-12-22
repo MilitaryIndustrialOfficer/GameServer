@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Inland River" Enum="InlandRiver">
+  <BiomeClassificationDefEnum>InlandRiver</BiomeClassificationDefEnum>
+  <Description>Rivers with less than 150 meters per second flow.</Description>
+  <Name>Inland River</Name>
+  <ShortName>River</ShortName>
+</BiomeClassificationDef>

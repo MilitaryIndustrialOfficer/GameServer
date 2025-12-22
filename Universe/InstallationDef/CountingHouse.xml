@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Counting House" Enum="CountingHouse">
+  <ExternalSpace_m2>3500</ExternalSpace_m2>
+  <InternalSpace_m2>10000</InternalSpace_m2>
+  <WallThickness_m>0.6</WallThickness_m>
+  <WallHeight_m>3</WallHeight_m>
+  <InstallationDefEnum>CountingHouse</InstallationDefEnum>
+  <Description>Multi-story office and warehouse building. Merchant headquarters, customs houses, trading companies. 4 stories, offices upstairs, storage ground floor. Perimeter wall for security.</Description>
+  <Name>Counting House</Name>
+  <ShortName>CH</ShortName>
+</InstallationDef>

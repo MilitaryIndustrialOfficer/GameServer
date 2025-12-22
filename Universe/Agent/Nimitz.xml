@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Agent ID="Nimitz">
+  <FirstName></FirstName>
+  <LastName></LastName>
+  <CanBePlayed>true</CanBePlayed>
+  <AgentDef>Officer</AgentDef>
+  <Player>BLUE</Player>
+  <PopDef>American</PopDef>
+  <Empire>USA</Empire>
+  <DateOfBirth>0</DateOfBirth>
+  <Name>Agent Nimitz</Name>
+  <ShortName>AN</ShortName>
+</Agent>

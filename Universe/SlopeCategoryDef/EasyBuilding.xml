@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlopeCategoryDef ID="EasyBuilding" Enum="EasyBuilding">
+  <MaxSlope>0.05</MaxSlope>
+  <IsVehiclePassable>true</IsVehiclePassable>
+  <IsWheeledVehiclePassable>true</IsWheeledVehiclePassable>
+  <IsBuildable>true</IsBuildable>
+  <IsRunwaySuitable>false</IsRunwaySuitable>
+  <SlopeCategoryDefEnum>EasyBuilding</SlopeCategoryDefEnum>
+  <Description>Easy building terrain with minimal grading required. Suitable for most permanent structures: barracks, factories, ports. Light foundation work needed.</Description>
+  <Name>EasyBuilding</Name>
+  <ShortName>Easy</ShortName>
+</SlopeCategoryDef>

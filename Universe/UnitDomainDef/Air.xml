@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitDomainDef ID="Air" Enum="Air">
+  <UnitDomainDefEnum>Air</UnitDomainDefEnum>
+  <Name>Air</Name>
+  <ShortName>A</ShortName>
+</UnitDomainDef>

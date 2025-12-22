@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Gold" Enum="Gold">
+  <BaseCost_Credits_per_kg>100000</BaseCost_Credits_per_kg>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>19300</Density_kg_per_m3>
+  <StackingHeight_m>2</StackingHeight_m>
+  <GoodDefEnum>Gold</GoodDefEnum>
+  <GoodCategoryDef>Precious Metal</GoodCategoryDef>
+  <StorageCategoryDef>Vault Storage</StorageCategoryDef>
+  <Name>Gold</Name>
+  <ShortName>G</ShortName>
+</GoodDef>

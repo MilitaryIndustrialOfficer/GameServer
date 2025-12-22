@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceDef ID="Navy Service" Enum="NavyService">
+  <ServiceDefEnum>NavyService</ServiceDefEnum>
+  <Name>Navy Service</Name>
+  <ShortName>NS</ShortName>
+</ServiceDef>

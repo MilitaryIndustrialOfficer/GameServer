@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTemplateDef ID="Mortar Squad" Enum="MortarSquad">
+  <UnitTemplateDefEnum>MortarSquad</UnitTemplateDefEnum>
+  <Name>UnitTemplateDef Mortar Squad</Name>
+  <ShortName>UTDMS</ShortName>
+</UnitTemplateDef>

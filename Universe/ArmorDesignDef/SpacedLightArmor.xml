@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Spaced Light Armor" Enum="SpacedLightArmor">
+  <ArmorDesignDefEnum>SpacedLightArmor</ArmorDesignDefEnum>
+  <Name>Spaced Light Armor</Name>
+  <ShortName>SLA</ShortName>
+</ArmorDesignDef>

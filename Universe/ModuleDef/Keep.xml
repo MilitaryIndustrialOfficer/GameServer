@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModuleDef ID="Keep" Enum="Keep">
+  <LandFootprint_m2>400</LandFootprint_m2>
+  <Stories>5</Stories>
+  <IsExternal>true</IsExternal>
+  <AdministrativeCapacity_seats>20</AdministrativeCapacity_seats>
+  <AdministrativeCapacity_multiplier>0.5</AdministrativeCapacity_multiplier>
+  <WallThickness_m>2.5</WallThickness_m>
+  <WallHeight_m>25</WallHeight_m>
+  <ModuleDefEnum>Keep</ModuleDefEnum>
+  <Description>Central fortified tower. Final refuge, observation post, command center, crown treasury. 5 stories, thick stone walls.</Description>
+  <Name>Keep</Name>
+  <ShortName>K</ShortName>
+</ModuleDef>

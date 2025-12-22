@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpirePointDef ID="Civilian Education" Enum="CivilianEducation">
+  <EmpirePointDefEnum>CivilianEducation</EmpirePointDefEnum>
+  <Name>Civilian Education</Name>
+  <ShortName>CE</ShortName>
+</EmpirePointDef>

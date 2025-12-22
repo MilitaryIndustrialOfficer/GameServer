@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Empire ID="Japan">
+  <CurrentEra>First</CurrentEra>
+  <AverageHeight_cm>160</AverageHeight_cm>
+  <AverageWeight_kg>55</AverageWeight_kg>
+  <BasalCaloricNeed_kcal>2000</BasalCaloricNeed_kcal>
+  <EmpireDef>Dictatorship</EmpireDef>
+  <PopDef>Japanese</PopDef>
+  <Name>Empire Japan</Name>
+  <ShortName>EJ</ShortName>
+  <ColorARGB>4292613180</ColorARGB>
+</Empire>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopRaceDef ID="Mongoloid" Enum="Mongoloid">
+  <BaseAnnualBirthRate>0.34</BaseAnnualBirthRate>
+  <HasPointyEars>false</HasPointyEars>
+  <MaturityAgeMin>13</MaturityAgeMin>
+  <MaxAge>85</MaxAge>
+  <ReproductiveAgeMax>48</ReproductiveAgeMax>
+  <ReproductiveAgeMin>13</ReproductiveAgeMin>
+  <PopRaceDefEnum>Mongoloid</PopRaceDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Mongoloid</Name>
+  <ShortName>M</ShortName>
+</PopRaceDef>

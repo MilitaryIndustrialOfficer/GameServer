@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpireDef ID="Theocracy" Enum="Theocracy">
+  <EmpireDefEnum>Theocracy</EmpireDefEnum>
+  <Name>Theocracy</Name>
+  <ShortName>T</ShortName>
+</EmpireDef>

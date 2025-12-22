@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Fortified House" Enum="FortifiedHouse">
+  <ExternalSpace_m2>500</ExternalSpace_m2>
+  <InternalSpace_m2>1000</InternalSpace_m2>
+  <WallThickness_m>2</WallThickness_m>
+  <WallHeight_m>8</WallHeight_m>
+  <InstallationDefEnum>FortifiedHouse</InstallationDefEnum>
+  <Description>Small defensible residence with walls/tower. Examples: Peel tower, fortified manor, small keep.</Description>
+  <Name>Fortified House</Name>
+  <ShortName>FH</ShortName>
+</InstallationDef>

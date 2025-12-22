@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementCategoryDef ID="Angle" Enum="Angle">
+  <MeasurementCategoryDefEnum>Angle</MeasurementCategoryDefEnum>
+  <Name>Angle</Name>
+  <ShortName>A</ShortName>
+</MeasurementCategoryDef>

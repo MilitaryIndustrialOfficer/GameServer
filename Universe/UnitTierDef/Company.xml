@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Company" Enum="Company">
+  <UnitTierDefEnum>Company</UnitTierDefEnum>
+  <UnitDomainDef>Ground</UnitDomainDef>
+  <Name>Company</Name>
+  <ShortName>C</ShortName>
+</UnitTierDef>

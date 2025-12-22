@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharacterAttributeDef ID="Metabolism" Enum="Metabolism">
+  <CharacterAttributeDefEnum>Metabolism</CharacterAttributeDefEnum>
+  <Name>Metabolism</Name>
+  <ShortName>M</ShortName>
+</CharacterAttributeDef>

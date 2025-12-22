@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Applique Armor" Enum="AppliqueArmor">
+  <ArmorDesignDefEnum>AppliqueArmor</ArmorDesignDefEnum>
+  <Name>Applique Armor</Name>
+  <ShortName>AA</ShortName>
+</ArmorDesignDef>

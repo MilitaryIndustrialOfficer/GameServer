@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Electrical Power" Enum="ElectricalPower">
+  <BaseCost_Credits_per_kg>1</BaseCost_Credits_per_kg>
+  <HalfLifeDays>0</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>1</Density_kg_per_m3>
+  <StackingHeight_m>0</StackingHeight_m>
+  <GoodDefEnum>ElectricalPower</GoodDefEnum>
+  <GoodCategoryDef>Energy</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Electrical Power</Name>
+  <ShortName>EP</ShortName>
+</GoodDef>

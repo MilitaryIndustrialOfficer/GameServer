@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopDef ID="American" Enum="American">
+  <PopDefEnum>American</PopDefEnum>
+  <PopRaceDef>Synthetic</PopRaceDef>
+  <Name>American</Name>
+  <ShortName>A</ShortName>
+</PopDef>

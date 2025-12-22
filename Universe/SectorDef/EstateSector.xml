@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SectorDef ID="Estate Sector" Enum="EstateSector">
+  <OwnerProfession>Aristocrats</OwnerProfession>
+  <SectorDefEnum>EstateSector</SectorDefEnum>
+  <Name>Estate Sector</Name>
+  <ShortName>ES</ShortName>
+</SectorDef>

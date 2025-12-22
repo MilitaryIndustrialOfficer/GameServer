@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Reactive Armor" Enum="ReactiveArmor">
+  <ArmorDesignDefEnum>ReactiveArmor</ArmorDesignDefEnum>
+  <Name>Reactive Armor</Name>
+  <ShortName>RA</ShortName>
+</ArmorDesignDef>

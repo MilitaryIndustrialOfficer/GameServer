@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Plastic: Phenolic" Enum="Plastic_Phenolic">
+  <CorrosionResistance>7</CorrosionResistance>
+  <Density_kg_per_m3>1300</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <ElasticModulus_GPa>3</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>50</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>25</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>35</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.6</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Plastic_Phenolic</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Plastic: Phenolic</Name>
+  <ShortName>PP</ShortName>
+</DesignMaterialDef>

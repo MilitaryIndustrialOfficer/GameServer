@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Fabric: Rayon" Enum="Fabric_Rayon">
+  <Density_kg_per_m3>1520</Density_kg_per_m3>
+  <StackingHeight_m>4</StackingHeight_m>
+  <ElasticModulus_GPa>12.5</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>true</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>500</TensileStrength_MPa>
+  <ElongationAtBreak_percent>20</ElongationAtBreak_percent>
+  <FatigueResistance>9</FatigueResistance>
+  <Metallic>0</Metallic>
+  <Roughness>0.5</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Fabric_Rayon</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Fabric: Rayon</Name>
+  <ShortName>FR</ShortName>
+</DesignMaterialDef>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Closed Forest Deciduous Needle" Enum="ClosedForestDeciduousNeedle">
+  <BiomeClassificationDefEnum>ClosedForestDeciduousNeedle</BiomeClassificationDefEnum>
+  <Description>Closed forest - deciduous needle-leaf (larch forests). Canopy cover greater than 70%.</Description>
+  <Name>Closed Forest Deciduous Needle</Name>
+  <ShortName>Forest</ShortName>
+</BiomeClassificationDef>

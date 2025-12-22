@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Leather: Cowhide" Enum="Leather_Cowhide">
+  <Density_kg_per_m3>860</Density_kg_per_m3>
+  <StackingHeight_m>4</StackingHeight_m>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <Metallic>0</Metallic>
+  <Roughness>0.7</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Leather_Cowhide</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Leather: Cowhide</Name>
+  <ShortName>LC</ShortName>
+</DesignMaterialDef>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Fabric: Canvas" Enum="Fabric_Canvas">
+  <Density_kg_per_m3>300</Density_kg_per_m3>
+  <StackingHeight_m>4</StackingHeight_m>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <Metallic>0</Metallic>
+  <Roughness>0.9</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Fabric_Canvas</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Fabric: Canvas</Name>
+  <ShortName>FC</ShortName>
+</DesignMaterialDef>

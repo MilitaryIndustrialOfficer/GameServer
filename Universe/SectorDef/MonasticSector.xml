@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SectorDef ID="Monastic Sector" Enum="MonasticSector">
+  <OwnerProfession>Clergymen</OwnerProfession>
+  <SectorDefEnum>MonasticSector</SectorDefEnum>
+  <Name>Monastic Sector</Name>
+  <ShortName>MS</ShortName>
+</SectorDef>

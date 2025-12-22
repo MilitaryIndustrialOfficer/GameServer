@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Empire ID="USA">
+  <CurrentEra>First</CurrentEra>
+  <AverageHeight_cm>175</AverageHeight_cm>
+  <AverageWeight_kg>70</AverageWeight_kg>
+  <BasalCaloricNeed_kcal>2400</BasalCaloricNeed_kcal>
+  <EmpireDef>Democratic Republic</EmpireDef>
+  <PopDef>American</PopDef>
+  <Name>United States of America</Name>
+  <ShortName>USA</ShortName>
+  <ColorARGB>4284456608</ColorARGB>
+</Empire>

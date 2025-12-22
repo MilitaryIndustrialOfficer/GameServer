@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementCategoryDef ID="Time" Enum="Time">
+  <MeasurementCategoryDefEnum>Time</MeasurementCategoryDefEnum>
+  <Name>Time</Name>
+  <ShortName>T</ShortName>
+</MeasurementCategoryDef>

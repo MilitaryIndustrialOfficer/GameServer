@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopMorphDef ID="Human" Enum="Human">
+  <PopMorphDefEnum>Human</PopMorphDefEnum>
+  <Name>Human</Name>
+  <ShortName>H</ShortName>
+</PopMorphDef>

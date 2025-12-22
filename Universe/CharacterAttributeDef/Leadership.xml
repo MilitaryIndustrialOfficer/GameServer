@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharacterAttributeDef ID="Leadership" Enum="Leadership">
+  <CharacterAttributeDefEnum>Leadership</CharacterAttributeDefEnum>
+  <Name>Leadership</Name>
+  <ShortName>L</ShortName>
+</CharacterAttributeDef>

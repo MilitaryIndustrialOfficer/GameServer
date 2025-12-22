@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Ceramic: Technical" Enum="Ceramic_Technical">
+  <CorrosionResistance>10</CorrosionResistance>
+  <Density_kg_per_m3>3800</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <ElasticModulus_GPa>400</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>200</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>4</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>140</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Ceramic_Technical</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Ceramic: Technical</Name>
+  <ShortName>CT</ShortName>
+</DesignMaterialDef>

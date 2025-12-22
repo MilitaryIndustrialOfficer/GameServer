@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Landmark ID="L1">
+  <PixelIndex>1022468988</PixelIndex>
+  <LandmarkDef>MapLabel</LandmarkDef>
+  <Name>Iron Bottom Sound</Name>
+  <ShortName>IBS</ShortName>
+</Landmark>

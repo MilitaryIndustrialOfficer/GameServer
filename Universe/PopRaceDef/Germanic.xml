@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopRaceDef ID="Germanic" Enum="Germanic">
+  <BaseAnnualBirthRate>0.28</BaseAnnualBirthRate>
+  <HasPointyEars>false</HasPointyEars>
+  <MaturityAgeMin>16</MaturityAgeMin>
+  <MaxAge>95</MaxAge>
+  <ReproductiveAgeMax>42</ReproductiveAgeMax>
+  <ReproductiveAgeMin>16</ReproductiveAgeMin>
+  <PopRaceDefEnum>Germanic</PopRaceDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Germanic</Name>
+  <ShortName>G</ShortName>
+</PopRaceDef>

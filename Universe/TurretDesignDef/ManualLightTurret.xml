@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TurretDesignDef ID="Manual Light Turret" Enum="ManualLightTurret">
+  <DefaultTurretType>Manual</DefaultTurretType>
+  <MinRingDiameter_mm>800</MinRingDiameter_mm>
+  <MaxRingDiameter_mm>1200</MaxRingDiameter_mm>
+  <DefaultRingDiameter_mm>1000</DefaultRingDiameter_mm>
+  <MinBasketDiameter_mm>0</MinBasketDiameter_mm>
+  <MaxBasketDiameter_mm>600</MaxBasketDiameter_mm>
+  <DefaultBasketDiameter_mm>0</DefaultBasketDiameter_mm>
+  <MinRoofHeight_mm>400</MinRoofHeight_mm>
+  <MaxRoofHeight_mm>800</MaxRoofHeight_mm>
+  <DefaultRoofHeight_mm>600</DefaultRoofHeight_mm>
+  <MinFrontalWidth_mm>800</MinFrontalWidth_mm>
+  <MaxFrontalWidth_mm>1400</MaxFrontalWidth_mm>
+  <DefaultFrontalWidth_mm>1100</DefaultFrontalWidth_mm>
+  <MinSideLength_mm>600</MinSideLength_mm>
+  <MaxSideLength_mm>1000</MaxSideLength_mm>
+  <DefaultSideLength_mm>800</DefaultSideLength_mm>
+  <MinMaxTraverseSpeed_deg_s>2</MinMaxTraverseSpeed_deg_s>
+  <MaxMaxTraverseSpeed_deg_s>8</MaxMaxTraverseSpeed_deg_s>
+  <DefaultMaxTraverseSpeed_deg_s>4</DefaultMaxTraverseSpeed_deg_s>
+  <MinTraverseAcceleration_deg_s2>1</MinTraverseAcceleration_deg_s2>
+  <MaxTraverseAcceleration_deg_s2>5</MaxTraverseAcceleration_deg_s2>
+  <DefaultTraverseAcceleration_deg_s2>2</DefaultTraverseAcceleration_deg_s2>
+  <MinManualTraverseRate_deg_crank>0.5</MinManualTraverseRate_deg_crank>
+  <MaxManualTraverseRate_deg_crank>2</MaxManualTraverseRate_deg_crank>
+  <DefaultManualTraverseRate_deg_crank>1</DefaultManualTraverseRate_deg_crank>
+  <MinMaxElevation_deg>15</MinMaxElevation_deg>
+  <MaxMaxElevation_deg>35</MaxMaxElevation_deg>
+  <DefaultMaxElevation_deg>20</DefaultMaxElevation_deg>
+  <MinMaxDepression_deg>5</MinMaxDepression_deg>
+  <MaxMaxDepression_deg>10</MaxMaxDepression_deg>
+  <DefaultMaxDepression_deg>7</DefaultMaxDepression_deg>
+  <MinElevationSpeed_deg_s>2</MinElevationSpeed_deg_s>
+  <MaxElevationSpeed_deg_s>8</MaxElevationSpeed_deg_s>
+  <DefaultElevationSpeed_deg_s>4</DefaultElevationSpeed_deg_s>
+  <DefaultStabilization>None</DefaultStabilization>
+  <MinStabilizationAccuracy_mrad>0</MinStabilizationAccuracy_mrad>
+  <MaxStabilizationAccuracy_mrad>0</MaxStabilizationAccuracy_mrad>
+  <DefaultStabilizationAccuracy_mrad>0</DefaultStabilizationAccuracy_mrad>
+  <MinCrewCount>1</MinCrewCount>
+  <MaxCrewCount>2</MaxCrewCount>
+  <DefaultCrewCount>2</DefaultCrewCount>
+  <DefaultHasCommanderCupola>false</DefaultHasCommanderCupola>
+  <DefaultHasLoaderPosition>true</DefaultHasLoaderPosition>
+  <DefaultTurretMaterial>Steel: MildCarbon</DefaultTurretMaterial>
+  <TurretDesignDefEnum>ManualLightTurret</TurretDesignDefEnum>
+  <Name>Manual Light Turret</Name>
+  <ShortName>MLT</ShortName>
+</TurretDesignDef>

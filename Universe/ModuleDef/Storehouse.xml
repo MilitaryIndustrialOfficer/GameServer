@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModuleDef ID="Storehouse" Enum="Storehouse">
+  <LandFootprint_m2>1000</LandFootprint_m2>
+  <Stories>3</Stories>
+  <IsExternal>true</IsExternal>
+  <AdministrativeCapacity_seats>2</AdministrativeCapacity_seats>
+  <AdministrativeCapacity_multiplier>1</AdministrativeCapacity_multiplier>
+  <WallThickness_m>0.5</WallThickness_m>
+  <WallHeight_m>10.5</WallHeight_m>
+  <ModuleDefEnum>Storehouse</ModuleDefEnum>
+  <Description>Large external warehouse building. Bulk storage for goods, materials, supplies. Multi-story with loading capacity.</Description>
+  <Name>Storehouse</Name>
+  <ShortName>S</ShortName>
+</ModuleDef>

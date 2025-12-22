@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpireDef ID="Tribal Confederacy" Enum="TribalConfederacy">
+  <EmpireDefEnum>TribalConfederacy</EmpireDefEnum>
+  <Name>Tribal Confederacy</Name>
+  <ShortName>TC</ShortName>
+</EmpireDef>

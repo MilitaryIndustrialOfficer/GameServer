@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Fabric: Aramid" Enum="Fabric_Aramid">
+  <Density_kg_per_m3>1440</Density_kg_per_m3>
+  <StackingHeight_m>4</StackingHeight_m>
+  <ElasticModulus_GPa>91</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>true</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>2960</TensileStrength_MPa>
+  <ElongationAtBreak_percent>3</ElongationAtBreak_percent>
+  <FatigueResistance>10</FatigueResistance>
+  <Metallic>0</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Fabric_Aramid</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Fabric: Aramid</Name>
+  <ShortName>FA</ShortName>
+</DesignMaterialDef>

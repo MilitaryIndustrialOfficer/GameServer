@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfessionDef ID="Aristocrats" Enum="Aristocrats">
+  <Salary_able>0</Salary_able>
+  <Salary_worker>0</Salary_worker>
+  <EducationYears>4</EducationYears>
+  <WorkEffectiveness>5</WorkEffectiveness>
+  <ProfessionDefEnum>Aristocrats</ProfessionDefEnum>
+  <SocialStrataDef>Upper Strata</SocialStrataDef>
+  <Name>Aristocrats</Name>
+  <ShortName>A</ShortName>
+</ProfessionDef>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AccommodationDef ID="Officer Accommodation" Enum="OfficerAccommodation">
+  <AccommodationDefEnum>OfficerAccommodation</AccommodationDefEnum>
+  <Name>Officer Accommodation</Name>
+  <ShortName>OA</ShortName>
+</AccommodationDef>

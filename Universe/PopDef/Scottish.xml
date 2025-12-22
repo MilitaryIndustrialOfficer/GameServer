@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopDef ID="Scottish" Enum="Scottish">
+  <PopDefEnum>Scottish</PopDefEnum>
+  <PopRaceDef>Celtic</PopRaceDef>
+  <Name>Scottish</Name>
+  <ShortName>S</ShortName>
+</PopDef>

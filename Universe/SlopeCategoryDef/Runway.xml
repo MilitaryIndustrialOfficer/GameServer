@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlopeCategoryDef ID="Runway" Enum="Runway">
+  <MaxSlope>0.02</MaxSlope>
+  <IsVehiclePassable>true</IsVehiclePassable>
+  <IsWheeledVehiclePassable>true</IsWheeledVehiclePassable>
+  <IsBuildable>true</IsBuildable>
+  <IsRunwaySuitable>true</IsRunwaySuitable>
+  <SlopeCategoryDefEnum>Runway</SlopeCategoryDefEnum>
+  <Description>Flat terrain suitable for runways and large facilities. Maximum grade for fixed-wing runways is 1-2%. Ideal for airfields, major installations, warehouses. Minimal earthwork required.</Description>
+  <Name>Runway</Name>
+  <ShortName>Flat</ShortName>
+</SlopeCategoryDef>

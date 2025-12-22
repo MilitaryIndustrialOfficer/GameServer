@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Closed Forest Mixed" Enum="ClosedForestMixed">
+  <BiomeClassificationDefEnum>ClosedForestMixed</BiomeClassificationDefEnum>
+  <Description>Closed forest - mixed needle and broad-leaf. Canopy cover greater than 70%.</Description>
+  <Name>Closed Forest Mixed</Name>
+  <ShortName>Forest</ShortName>
+</BiomeClassificationDef>

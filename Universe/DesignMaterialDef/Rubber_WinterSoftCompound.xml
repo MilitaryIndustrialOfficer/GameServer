@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Rubber: Winter Soft Compound" Enum="Rubber_WinterSoftCompound">
+  <Density_kg_per_m3>1100</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <ElasticModulus_GPa>0.00225</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>true</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>21.5</TensileStrength_MPa>
+  <RollingResistance_Base>0.0125</RollingResistance_Base>
+  <RollingResistance_SpeedCoeff>0.13</RollingResistance_SpeedCoeff>
+  <RollingResistance_TempCoeff>-0.002</RollingResistance_TempCoeff>
+  <RollingResistance_PressureCoeff>-0.00035</RollingResistance_PressureCoeff>
+  <FrictionMu_Peak_Dry>0.85</FrictionMu_Peak_Dry>
+  <FrictionMu_Peak_Wet>0.8</FrictionMu_Peak_Wet>
+  <FrictionMu_Peak_Snow>0.55</FrictionMu_Peak_Snow>
+  <FrictionMu_Peak_Mud>0.375</FrictionMu_Peak_Mud>
+  <FrictionMu_SlipSpeedSoftening_Coeff>0.08</FrictionMu_SlipSpeedSoftening_Coeff>
+  <FrictionMu_OptimalTemp_C>2.5</FrictionMu_OptimalTemp_C>
+  <FrictionMu_TempBandWidth_C>15</FrictionMu_TempBandWidth_C>
+  <ThermalConductivity_W_per_mK>0.2</ThermalConductivity_W_per_mK>
+  <SpecificHeat_J_per_kgK>1700</SpecificHeat_J_per_kgK>
+  <ElongationAtBreak_percent>500</ElongationAtBreak_percent>
+  <Metallic>0</Metallic>
+  <Roughness>0.8</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Rubber_WinterSoftCompound</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Rubber: Winter Soft Compound</Name>
+  <ShortName>RWSC</ShortName>
+</DesignMaterialDef>
