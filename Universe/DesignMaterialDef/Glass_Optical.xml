@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Glass: Optical" Enum="Glass_Optical">
+  <CorrosionResistance>9</CorrosionResistance>
+  <Density_kg_per_m3>2600</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <ElasticModulus_GPa>80</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>80</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>7</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>56</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0</Roughness>
+  <Opacity>0.05</Opacity>
+  <DesignMaterialDefEnum>Glass_Optical</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Glass: Optical</Name>
+  <ShortName>GO</ShortName>
+</DesignMaterialDef>

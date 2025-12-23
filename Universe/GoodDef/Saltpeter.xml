@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Saltpeter" Enum="Saltpeter">
+  <BaseCost_Credits_per_kg>0.7</BaseCost_Credits_per_kg>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>2100</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <GoodDefEnum>Saltpeter</GoodDefEnum>
+  <GoodCategoryDef>Intermediate</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Description>Potassium Nitrate - CRITICAL gunpowder component (75% of black powder). From dung heaps, guano, cave deposits. STRATEGIC.</Description>
+  <Name>Saltpeter</Name>
+  <ShortName>S</ShortName>
+</GoodDef>

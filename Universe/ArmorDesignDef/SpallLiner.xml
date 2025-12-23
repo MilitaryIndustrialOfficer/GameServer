@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Spall Liner" Enum="SpallLiner">
+  <ArmorDesignDefEnum>SpallLiner</ArmorDesignDefEnum>
+  <Name>Spall Liner</Name>
+  <ShortName>SL</ShortName>
+</ArmorDesignDef>

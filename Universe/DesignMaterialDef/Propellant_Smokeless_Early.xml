@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Smokeless: Early" Enum="Propellant_Smokeless_Early">
+  <BurnRate_mm_per_s>5</BurnRate_mm_per_s>
+  <BurnRateClass>Progressive</BurnRateClass>
+  <Density_kg_per_m3>1580</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>4.2</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <OptimalBarrelLength_mm>600</OptimalBarrelLength_mm>
+  <SmokeProduction>1</SmokeProduction>
+  <TemperatureSensitivity>0.2</TemperatureSensitivity>
+  <BurnRateCoefficient>0.45</BurnRateCoefficient>
+  <BurnRateExponent>0.7</BurnRateExponent>
+  <Metallic>0</Metallic>
+  <Roughness>0.6</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_Smokeless_Early</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Smokeless: Early</Name>
+  <ShortName>PSE</ShortName>
+</DesignMaterialDef>

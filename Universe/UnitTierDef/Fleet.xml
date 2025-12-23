@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Fleet" Enum="Fleet">
+  <UnitTierDefEnum>Fleet</UnitTierDefEnum>
+  <UnitDomainDef>Naval</UnitDomainDef>
+  <Name>Fleet</Name>
+  <ShortName>F</ShortName>
+</UnitTierDef>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Regiment" Enum="Regiment">
+  <UnitTierDefEnum>Regiment</UnitTierDefEnum>
+  <UnitDomainDef>Ground</UnitDomainDef>
+  <Name>Regiment</Name>
+  <ShortName>R</ShortName>
+</UnitTierDef>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Open Forest Mixed" Enum="OpenForestMixed">
+  <BiomeClassificationDefEnum>OpenForestMixed</BiomeClassificationDefEnum>
+  <Description>Open forest - mixed needle and broad-leaf. Canopy cover 15-70%.</Description>
+  <Name>Open Forest Mixed</Name>
+  <ShortName>Open For</ShortName>
+</BiomeClassificationDef>

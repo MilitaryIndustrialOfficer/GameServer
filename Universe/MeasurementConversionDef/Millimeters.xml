@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementConversionDef ID="Millimeters" Enum="Millimeters">
+  <ConversionToBaseUnit>0.001</ConversionToBaseUnit>
+  <DisplaySymbol>mm</DisplaySymbol>
+  <DisplayPrecision>2</DisplayPrecision>
+  <PropertySuffixPatterns>
+    <Item>_mm</Item>
+  </PropertySuffixPatterns>
+  <IsCaliberUnit>false</IsCaliberUnit>
+  <MeasurementConversionDefEnum>Millimeters</MeasurementConversionDefEnum>
+  <MeasurementCategoryDef>Length</MeasurementCategoryDef>
+  <Name>Millimeters</Name>
+  <ShortName>M</ShortName>
+</MeasurementConversionDef>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Smokeless: Progressive" Enum="Propellant_Smokeless_Progressive">
+  <BurnRate_mm_per_s>1</BurnRate_mm_per_s>
+  <BurnRateClass>Progressive</BurnRateClass>
+  <Density_kg_per_m3>1570</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>5</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <OptimalBarrelLength_mm>800</OptimalBarrelLength_mm>
+  <SmokeProduction>0.1</SmokeProduction>
+  <TemperatureSensitivity>0.1</TemperatureSensitivity>
+  <BurnRateCoefficient>0.65</BurnRateCoefficient>
+  <BurnRateExponent>0.9</BurnRateExponent>
+  <Metallic>0</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_Smokeless_Progressive</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Smokeless: Progressive</Name>
+  <ShortName>PSP</ShortName>
+</DesignMaterialDef>

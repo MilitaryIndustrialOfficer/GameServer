@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CartridgeDesignDef ID="Tank Gun Cartridge" Enum="TankGunCartridge">
+  <DefaultCaseType>NonPressureBearing</DefaultCaseType>
+  <MinCaseBodyDiameter_mm>100</MinCaseBodyDiameter_mm>
+  <MaxCaseBodyDiameter_mm>180</MaxCaseBodyDiameter_mm>
+  <DefaultCaseBodyDiameter_mm>165</DefaultCaseBodyDiameter_mm>
+  <MinCaseLength_mm>500</MinCaseLength_mm>
+  <MaxCaseLength_mm>800</MaxCaseLength_mm>
+  <DefaultCaseLength_mm>680</DefaultCaseLength_mm>
+  <DefaultCaseMaterial>Paper: Industrial Grade</DefaultCaseMaterial>
+  <MinCaseWallThickness_mm>2</MinCaseWallThickness_mm>
+  <MaxCaseWallThickness_mm>8</MaxCaseWallThickness_mm>
+  <DefaultCaseWallThickness_mm>3</DefaultCaseWallThickness_mm>
+  <MinCaseNeckDiameter_mm>105</MinCaseNeckDiameter_mm>
+  <MaxCaseNeckDiameter_mm>135</MaxCaseNeckDiameter_mm>
+  <DefaultCaseNeckDiameter_mm>125</DefaultCaseNeckDiameter_mm>
+  <MinCaseShoulderDiameter_mm>120</MinCaseShoulderDiameter_mm>
+  <MaxCaseShoulderDiameter_mm>170</MaxCaseShoulderDiameter_mm>
+  <DefaultCaseShoulderDiameter_mm>150</DefaultCaseShoulderDiameter_mm>
+  <MinCaseHeadToShoulderLength_mm>400</MinCaseHeadToShoulderLength_mm>
+  <MaxCaseHeadToShoulderLength_mm>700</MaxCaseHeadToShoulderLength_mm>
+  <DefaultCaseHeadToShoulderLength_mm>620</DefaultCaseHeadToShoulderLength_mm>
+  <MinCaseShoulderAngle_degrees>10</MinCaseShoulderAngle_degrees>
+  <MaxCaseShoulderAngle_degrees>25</MaxCaseShoulderAngle_degrees>
+  <DefaultCaseShoulderAngle_degrees>15</DefaultCaseShoulderAngle_degrees>
+  <MinOverallLength_mm>700</MinOverallLength_mm>
+  <MaxOverallLength_mm>1200</MaxOverallLength_mm>
+  <DefaultOverallLength_mm>980</DefaultOverallLength_mm>
+  <MinPropellantCharge_grams>5000</MinPropellantCharge_grams>
+  <MaxPropellantCharge_grams>12000</MaxPropellantCharge_grams>
+  <DefaultPropellantCharge_grams>8900</DefaultPropellantCharge_grams>
+  <DefaultPropellantMaterial>Propellant: Modern: JA-2</DefaultPropellantMaterial>
+  <MinProjectileDiameter_mm>100</MinProjectileDiameter_mm>
+  <MaxProjectileDiameter_mm>135</MaxProjectileDiameter_mm>
+  <DefaultProjectileDiameter_mm>120</DefaultProjectileDiameter_mm>
+  <CartridgeDesignDefEnum>TankGunCartridge</CartridgeDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Tank Gun Cartridge</Name>
+  <ShortName>TGC</ShortName>
+</CartridgeDesignDef>

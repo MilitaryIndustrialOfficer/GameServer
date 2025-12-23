@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Division" Enum="Division">
+  <UnitTierDefEnum>Division</UnitTierDefEnum>
+  <UnitDomainDef>Ground</UnitDomainDef>
+  <Name>Division</Name>
+  <ShortName>D</ShortName>
+</UnitTierDef>

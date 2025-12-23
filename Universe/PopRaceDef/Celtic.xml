@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopRaceDef ID="Celtic" Enum="Celtic">
+  <BaseAnnualBirthRate>0.34</BaseAnnualBirthRate>
+  <HasPointyEars>false</HasPointyEars>
+  <MaturityAgeMin>15</MaturityAgeMin>
+  <MaxAge>90</MaxAge>
+  <ReproductiveAgeMax>44</ReproductiveAgeMax>
+  <ReproductiveAgeMin>15</ReproductiveAgeMin>
+  <PopRaceDefEnum>Celtic</PopRaceDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Celtic</Name>
+  <ShortName>C</ShortName>
+</PopRaceDef>

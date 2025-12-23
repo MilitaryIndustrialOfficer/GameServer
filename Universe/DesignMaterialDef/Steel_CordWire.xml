@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Steel: Cord Wire" Enum="Steel_CordWire">
+  <CorrosionResistance>3</CorrosionResistance>
+  <Density_kg_per_m3>7850</Density_kg_per_m3>
+  <StackingHeight_m>1.2</StackingHeight_m>
+  <ElasticModulus_GPa>200</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>true</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>3400</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>12</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>2800</YieldStrength_MPa>
+  <ElongationAtBreak_percent>5</ElongationAtBreak_percent>
+  <FatigueResistance>8</FatigueResistance>
+  <Metallic>0.95</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Steel_CordWire</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Steel: Cord Wire</Name>
+  <ShortName>SCW</ShortName>
+</DesignMaterialDef>

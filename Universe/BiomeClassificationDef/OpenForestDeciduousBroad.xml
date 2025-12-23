@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Open Forest Deciduous Broad" Enum="OpenForestDeciduousBroad">
+  <BiomeClassificationDefEnum>OpenForestDeciduousBroad</BiomeClassificationDefEnum>
+  <Description>Open forest - deciduous broad-leaf. Canopy cover 15-70%.</Description>
+  <Name>Open Forest Deciduous Broad</Name>
+  <ShortName>Open For</ShortName>
+</BiomeClassificationDef>

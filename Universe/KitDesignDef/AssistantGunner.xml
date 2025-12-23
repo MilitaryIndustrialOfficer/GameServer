@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KitDesignDef ID="Assistant Gunner" Enum="AssistantGunner">
+  <KitDesignDefEnum>AssistantGunner</KitDesignDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Assistant Gunner</Name>
+  <ShortName>AG</ShortName>
+</KitDesignDef>

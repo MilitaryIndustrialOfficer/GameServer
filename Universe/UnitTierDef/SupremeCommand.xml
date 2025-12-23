@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Supreme Command" Enum="SupremeCommand">
+  <UnitTierDefEnum>SupremeCommand</UnitTierDefEnum>
+  <UnitDomainDef>Strategic</UnitDomainDef>
+  <Name>Supreme Command</Name>
+  <ShortName>SC</ShortName>
+</UnitTierDef>

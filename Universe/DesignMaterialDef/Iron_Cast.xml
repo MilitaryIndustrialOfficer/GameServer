@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Iron: Cast" Enum="Iron_Cast">
+  <CorrosionResistance>3</CorrosionResistance>
+  <Density_kg_per_m3>7200</Density_kg_per_m3>
+  <StackingHeight_m>1.2</StackingHeight_m>
+  <ElasticModulus_GPa>120</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>200</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>11</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>140</YieldStrength_MPa>
+  <Metallic>0.7</Metallic>
+  <Roughness>0.7</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Iron_Cast</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Iron: Cast</Name>
+  <ShortName>IC</ShortName>
+</DesignMaterialDef>

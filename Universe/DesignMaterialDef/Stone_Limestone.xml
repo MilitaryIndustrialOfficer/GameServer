@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Stone: Limestone" Enum="Stone_Limestone">
+  <CorrosionResistance>6</CorrosionResistance>
+  <Density_kg_per_m3>2500</Density_kg_per_m3>
+  <StackingHeight_m>2</StackingHeight_m>
+  <ElasticModulus_GPa>50</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>12</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>8</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>55</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.85</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Stone_Limestone</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Yard Storage</StorageCategoryDef>
+  <Name>Stone: Limestone</Name>
+  <ShortName>SL</ShortName>
+</DesignMaterialDef>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Tar" Enum="Tar">
+  <BaseCost_Credits_per_kg>0.18</BaseCost_Credits_per_kg>
+  <HalfLifeDays>3600</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>1150</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <GoodDefEnum>Tar</GoodDefEnum>
+  <GoodCategoryDef>Construction</GoodCategoryDef>
+  <StorageCategoryDef>Yard Storage</StorageCategoryDef>
+  <Description>Pine tar/coal tar - naval stores (rope waterproofing, hull caulking), wood preservation. Shipbuilding critical.</Description>
+  <Name>Tar</Name>
+  <ShortName>T</ShortName>
+</GoodDef>

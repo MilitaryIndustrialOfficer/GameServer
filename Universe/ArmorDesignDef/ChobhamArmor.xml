@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Chobham Armor" Enum="ChobhamArmor">
+  <ArmorDesignDefEnum>ChobhamArmor</ArmorDesignDefEnum>
+  <Name>Chobham Armor</Name>
+  <ShortName>CA</ShortName>
+</ArmorDesignDef>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StorageCategoryDef ID="Alcohol Storage" Enum="AlcoholStorage">
+  <StorageCategoryDefEnum>AlcoholStorage</StorageCategoryDefEnum>
+  <Name>Alcohol Storage</Name>
+  <ShortName>AS</ShortName>
+</StorageCategoryDef>

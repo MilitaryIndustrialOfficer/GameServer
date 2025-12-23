@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Wood: Softwood" Enum="Wood_Softwood">
+  <CorrosionResistance>2</CorrosionResistance>
+  <Density_kg_per_m3>500</Density_kg_per_m3>
+  <StackingHeight_m>5</StackingHeight_m>
+  <ElasticModulus_GPa>8</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>50</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>4</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>35</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.8</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Wood_Softwood</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Wood: Softwood</Name>
+  <ShortName>WS</ShortName>
+</DesignMaterialDef>

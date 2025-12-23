@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Cotton" Enum="Cotton">
+  <BaseCost_Credits_per_kg>1.2</BaseCost_Credits_per_kg>
+  <HalfLifeDays>1800</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>250</Density_kg_per_m3>
+  <StackingHeight_m>3.5</StackingHeight_m>
+  <GoodDefEnum>Cotton</GoodDefEnum>
+  <GoodCategoryDef>Textile</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Cotton</Name>
+  <ShortName>C</ShortName>
+</GoodDef>

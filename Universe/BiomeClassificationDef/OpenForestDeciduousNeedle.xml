@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Open Forest Deciduous Needle" Enum="OpenForestDeciduousNeedle">
+  <BiomeClassificationDefEnum>OpenForestDeciduousNeedle</BiomeClassificationDefEnum>
+  <Description>Open forest - deciduous needle-leaf. Canopy cover 15-70%.</Description>
+  <Name>Open Forest Deciduous Needle</Name>
+  <ShortName>Open For</ShortName>
+</BiomeClassificationDef>

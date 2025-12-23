@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopDef ID="English" Enum="English">
+  <PopDefEnum>English</PopDefEnum>
+  <PopRaceDef>Germanic</PopRaceDef>
+  <Name>English</Name>
+  <ShortName>E</ShortName>
+</PopDef>

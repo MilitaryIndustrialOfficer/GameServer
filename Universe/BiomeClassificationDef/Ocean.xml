@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Ocean" Enum="Ocean">
+  <BiomeClassificationDefEnum>Ocean</BiomeClassificationDefEnum>
+  <Description>Ocean - salt water, open sea.</Description>
+  <Name>Ocean</Name>
+  <ShortName>Ocean</ShortName>
+</BiomeClassificationDef>

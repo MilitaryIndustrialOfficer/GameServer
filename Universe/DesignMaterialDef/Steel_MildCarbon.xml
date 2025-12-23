@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Steel: MildCarbon" Enum="Steel_MildCarbon">
+  <CorrosionResistance>4</CorrosionResistance>
+  <Density_kg_per_m3>7850</Density_kg_per_m3>
+  <StackingHeight_m>1.2</StackingHeight_m>
+  <ElasticModulus_GPa>200</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>400</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>12</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>250</YieldStrength_MPa>
+  <Metallic>0.9</Metallic>
+  <Roughness>0.4</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Steel_MildCarbon</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Steel: MildCarbon</Name>
+  <ShortName>SMC</ShortName>
+</DesignMaterialDef>

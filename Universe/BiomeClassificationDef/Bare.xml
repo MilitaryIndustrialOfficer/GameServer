@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Bare" Enum="Bare">
+  <BiomeClassificationDefEnum>Bare</BiomeClassificationDefEnum>
+  <Description>Bare ground - desert, rock, sand, sparse vegetation.</Description>
+  <Name>Bare</Name>
+  <ShortName>Bare</ShortName>
+</BiomeClassificationDef>

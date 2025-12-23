@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlopeCategoryDef ID="NoBuilding" Enum="NoBuilding">
+  <MaxSlope>0.3</MaxSlope>
+  <IsVehiclePassable>true</IsVehiclePassable>
+  <IsWheeledVehiclePassable>false</IsWheeledVehiclePassable>
+  <IsBuildable>false</IsBuildable>
+  <IsRunwaySuitable>false</IsRunwaySuitable>
+  <SlopeCategoryDefEnum>NoBuilding</SlopeCategoryDefEnum>
+  <Description>Too steep for permanent structures. Infantry and tracked vehicles can traverse with difficulty. Wheeled vehicles may fail. Natural defensive terrain.</Description>
+  <Name>NoBuilding</Name>
+  <ShortName>Steep</ShortName>
+</SlopeCategoryDef>

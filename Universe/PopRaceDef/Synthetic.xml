@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopRaceDef ID="Synthetic" Enum="Synthetic">
+  <BaseAnnualBirthRate>0.3</BaseAnnualBirthRate>
+  <HasPointyEars>false</HasPointyEars>
+  <MaturityAgeMin>14</MaturityAgeMin>
+  <MaxAge>85</MaxAge>
+  <ReproductiveAgeMax>42</ReproductiveAgeMax>
+  <ReproductiveAgeMin>15</ReproductiveAgeMin>
+  <PopRaceDefEnum>Synthetic</PopRaceDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Synthetic</Name>
+  <ShortName>S</ShortName>
+</PopRaceDef>

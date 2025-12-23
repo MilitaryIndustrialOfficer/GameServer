@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Unit ID="CINCPAC Headquarters">
+  <UnitTierDef>Regional Command</UnitTierDef>
+  <PopDef>American</PopDef>
+  <Empire>USA</Empire>
+  <Name>Unit CINCPAC Headquarters</Name>
+  <ShortName>UCINCPACH</ShortName>
+  <PixelFootprint>643548842</PixelFootprint>
+</Unit>

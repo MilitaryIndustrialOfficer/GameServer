@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SocialStrataDef ID="Criminal Strata" Enum="CriminalStrata">
+  <SocialStrataDefEnum>CriminalStrata</SocialStrataDefEnum>
+  <Name>Criminal Strata</Name>
+  <ShortName>CS</ShortName>
+</SocialStrataDef>

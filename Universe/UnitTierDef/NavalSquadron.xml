@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Naval Squadron" Enum="NavalSquadron">
+  <UnitTierDefEnum>NavalSquadron</UnitTierDefEnum>
+  <UnitDomainDef>Naval</UnitDomainDef>
+  <Name>Naval Squadron</Name>
+  <ShortName>NS</ShortName>
+</UnitTierDef>

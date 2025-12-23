@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KitDesignDef ID="Light Machine Gunner" Enum="LightMachineGunner">
+  <KitDesignDefEnum>LightMachineGunner</KitDesignDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Light Machine Gunner</Name>
+  <ShortName>LMG</ShortName>
+</KitDesignDef>

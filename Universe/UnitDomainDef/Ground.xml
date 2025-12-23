@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitDomainDef ID="Ground" Enum="Ground">
+  <UnitDomainDefEnum>Ground</UnitDomainDefEnum>
+  <Name>Ground</Name>
+  <ShortName>G</ShortName>
+</UnitDomainDef>

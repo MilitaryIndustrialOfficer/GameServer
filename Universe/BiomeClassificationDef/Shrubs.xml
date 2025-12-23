@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Shrubs" Enum="Shrubs">
+  <BiomeClassificationDefEnum>Shrubs</BiomeClassificationDefEnum>
+  <Description>Shrubland - woody plants less than 5m tall.</Description>
+  <Name>Shrubs</Name>
+  <ShortName>Shrubs</ShortName>
+</BiomeClassificationDef>

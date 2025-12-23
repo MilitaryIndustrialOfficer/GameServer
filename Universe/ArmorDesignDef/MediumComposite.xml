@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Medium Composite" Enum="MediumComposite">
+  <ArmorDesignDefEnum>MediumComposite</ArmorDesignDefEnum>
+  <Name>Medium Composite</Name>
+  <ShortName>MC</ShortName>
+</ArmorDesignDef>

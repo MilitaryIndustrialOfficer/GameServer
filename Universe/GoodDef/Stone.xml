@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Stone" Enum="Stone">
+  <BaseCost_Credits_per_kg>0.02</BaseCost_Credits_per_kg>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>2500</Density_kg_per_m3>
+  <StackingHeight_m>2</StackingHeight_m>
+  <GoodDefEnum>Stone</GoodDefEnum>
+  <GoodCategoryDef>Construction</GoodCategoryDef>
+  <StorageCategoryDef>Yard Storage</StorageCategoryDef>
+  <Name>Stone</Name>
+  <ShortName>S</ShortName>
+</GoodDef>

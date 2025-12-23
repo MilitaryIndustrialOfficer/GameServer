@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementCategoryDef ID="Length" Enum="Length">
+  <MeasurementCategoryDefEnum>Length</MeasurementCategoryDefEnum>
+  <Name>Length</Name>
+  <ShortName>L</ShortName>
+</MeasurementCategoryDef>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BombDesignDef ID="APFSDS" Enum="APFSDS">
+  <MinProjectileDiameter_mm>105</MinProjectileDiameter_mm>
+  <MaxProjectileDiameter_mm>135</MaxProjectileDiameter_mm>
+  <DefaultProjectileDiameter_mm>120</DefaultProjectileDiameter_mm>
+  <MinProjectileLength_mm>400</MinProjectileLength_mm>
+  <MaxProjectileLength_mm>1000</MaxProjectileLength_mm>
+  <DefaultProjectileLength_mm>745</DefaultProjectileLength_mm>
+  <DefaultProjectileShape>Cylinder</DefaultProjectileShape>
+  <DefaultProjectileCoreMaterial>Tungsten Carbide</DefaultProjectileCoreMaterial>
+  <DefaultProjectileJacketMaterial>Aluminum: Alloy</DefaultProjectileJacketMaterial>
+  <MinProjectileJacketThickness_mm>30</MinProjectileJacketThickness_mm>
+  <MaxProjectileJacketThickness_mm>50</MaxProjectileJacketThickness_mm>
+  <DefaultProjectileJacketThickness_mm>46.5</DefaultProjectileJacketThickness_mm>
+  <DefaultProjectileBaseType>Flat</DefaultProjectileBaseType>
+  <MinProjectileBoatTailAngle_degrees>0</MinProjectileBoatTailAngle_degrees>
+  <MaxProjectileBoatTailAngle_degrees>0</MaxProjectileBoatTailAngle_degrees>
+  <DefaultProjectileBoatTailAngle_degrees>0</DefaultProjectileBoatTailAngle_degrees>
+  <MinProjectileBoatTailLength_mm>0</MinProjectileBoatTailLength_mm>
+  <MaxProjectileBoatTailLength_mm>0</MaxProjectileBoatTailLength_mm>
+  <DefaultProjectileBoatTailLength_mm>0</DefaultProjectileBoatTailLength_mm>
+  <DefaultCartridgeFuse>None</DefaultCartridgeFuse>
+  <BombDesignDefEnum>APFSDS</BombDesignDefEnum>
+  <Name>APFSDS</Name>
+  <ShortName>APFSDS</ShortName>
+</BombDesignDef>

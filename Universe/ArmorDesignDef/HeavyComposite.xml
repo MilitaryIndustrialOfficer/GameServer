@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Heavy Composite" Enum="HeavyComposite">
+  <ArmorDesignDefEnum>HeavyComposite</ArmorDesignDefEnum>
+  <Name>Heavy Composite</Name>
+  <ShortName>HC</ShortName>
+</ArmorDesignDef>

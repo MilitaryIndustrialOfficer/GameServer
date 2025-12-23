@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharacterAttributeDef ID="Health" Enum="Health">
+  <CharacterAttributeDefEnum>Health</CharacterAttributeDefEnum>
+  <Name>Health</Name>
+  <ShortName>H</ShortName>
+</CharacterAttributeDef>

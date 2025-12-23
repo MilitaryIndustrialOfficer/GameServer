@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Air Force" Enum="AirForce">
+  <UnitTierDefEnum>AirForce</UnitTierDefEnum>
+  <UnitDomainDef>Air</UnitDomainDef>
+  <Name>Air Force</Name>
+  <ShortName>AF</ShortName>
+</UnitTierDef>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTemplateDef ID="Infantry Battalion" Enum="InfantryBattalion">
+  <UnitTemplateDefEnum>InfantryBattalion</UnitTemplateDefEnum>
+  <Name>UnitTemplateDef Infantry Battalion</Name>
+  <ShortName>UTDIB</ShortName>
+</UnitTemplateDef>

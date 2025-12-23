@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Rubber: Vulcanized" Enum="Rubber_Vulcanized">
+  <CorrosionResistance>7</CorrosionResistance>
+  <Density_kg_per_m3>950</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <ElasticModulus_GPa>0.01</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>15</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>160</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>10</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.6</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Rubber_Vulcanized</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Rubber: Vulcanized</Name>
+  <ShortName>RV</ShortName>
+</DesignMaterialDef>

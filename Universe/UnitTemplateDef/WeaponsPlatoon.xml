@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTemplateDef ID="Weapons Platoon" Enum="WeaponsPlatoon">
+  <UnitTemplateDefEnum>WeaponsPlatoon</UnitTemplateDefEnum>
+  <Name>UnitTemplateDef Weapons Platoon</Name>
+  <ShortName>UTDWP</ShortName>
+</UnitTemplateDef>

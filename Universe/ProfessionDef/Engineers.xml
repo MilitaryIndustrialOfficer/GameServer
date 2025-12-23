@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfessionDef ID="Engineers" Enum="Engineers">
+  <Salary_able>0</Salary_able>
+  <Salary_worker>4</Salary_worker>
+  <EducationYears>4</EducationYears>
+  <WorkEffectiveness>3.5</WorkEffectiveness>
+  <ProfessionDefEnum>Engineers</ProfessionDefEnum>
+  <SocialStrataDef>Middle Strata</SocialStrataDef>
+  <Name>Engineers</Name>
+  <ShortName>E</ShortName>
+</ProfessionDef>

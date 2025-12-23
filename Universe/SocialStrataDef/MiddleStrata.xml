@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SocialStrataDef ID="Middle Strata" Enum="MiddleStrata">
+  <SocialStrataDefEnum>MiddleStrata</SocialStrataDefEnum>
+  <Name>Middle Strata</Name>
+  <ShortName>MS</ShortName>
+</SocialStrataDef>

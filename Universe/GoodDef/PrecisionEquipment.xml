@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Precision Equipment" Enum="PrecisionEquipment">
+  <BaseCost_Credits_per_kg>16</BaseCost_Credits_per_kg>
+  <HalfLifeDays>10800</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>3000</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <GoodDefEnum>PrecisionEquipment</GoodDefEnum>
+  <GoodCategoryDef>Intermediate</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Precision Equipment</Name>
+  <ShortName>PE</ShortName>
+</GoodDef>

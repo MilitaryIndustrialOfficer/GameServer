@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementConversionDef ID="Meters" Enum="Meters">
+  <ConversionToBaseUnit>1</ConversionToBaseUnit>
+  <DisplaySymbol>m</DisplaySymbol>
+  <DisplayPrecision>3</DisplayPrecision>
+  <PropertySuffixPatterns>
+    <Item>_m</Item>
+    <Item>_meters</Item>
+  </PropertySuffixPatterns>
+  <IsCaliberUnit>false</IsCaliberUnit>
+  <MeasurementConversionDefEnum>Meters</MeasurementConversionDefEnum>
+  <MeasurementCategoryDef>Length</MeasurementCategoryDef>
+  <Name>Meters</Name>
+  <ShortName>M</ShortName>
+</MeasurementConversionDef>

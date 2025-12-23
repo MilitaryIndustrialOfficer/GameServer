@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Large Castle" Enum="LargeCastle">
+  <ExternalSpace_m2>48000</ExternalSpace_m2>
+  <InternalSpace_m2>10000</InternalSpace_m2>
+  <WallThickness_m>4</WallThickness_m>
+  <WallHeight_m>18</WallHeight_m>
+  <InstallationDefEnum>LargeCastle</InstallationDefEnum>
+  <Description>Major medieval fortress complex. Examples: Tower of London (48,000 m²), Windsor Castle (52,000 m²), Carcassonne.</Description>
+  <Name>Large Castle</Name>
+  <ShortName>LC</ShortName>
+</InstallationDef>

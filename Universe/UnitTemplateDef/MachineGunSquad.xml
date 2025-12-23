@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTemplateDef ID="Machine Gun Squad" Enum="MachineGunSquad">
+  <UnitTemplateDefEnum>MachineGunSquad</UnitTemplateDefEnum>
+  <Name>UnitTemplateDef Machine Gun Squad</Name>
+  <ShortName>UTDMGS</ShortName>
+</UnitTemplateDef>

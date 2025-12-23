@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Beer" Enum="Beer">
+  <BaseCost_Credits_per_kg>0.16</BaseCost_Credits_per_kg>
+  <HalfLifeDays>180</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>1000</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <GoodDefEnum>Beer</GoodDefEnum>
+  <GoodCategoryDef>Consumer</GoodCategoryDef>
+  <StorageCategoryDef>Alcohol Storage</StorageCategoryDef>
+  <Name>Beer</Name>
+  <ShortName>B</ShortName>
+</GoodDef>

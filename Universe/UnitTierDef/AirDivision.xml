@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Air Division" Enum="AirDivision">
+  <UnitTierDefEnum>AirDivision</UnitTierDefEnum>
+  <UnitDomainDef>Air</UnitDomainDef>
+  <Name>Air Division</Name>
+  <ShortName>AD</ShortName>
+</UnitTierDef>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Stone: Ashlar" Enum="Stone_Ashlar">
+  <CorrosionResistance>7</CorrosionResistance>
+  <Density_kg_per_m3>2500</Density_kg_per_m3>
+  <StackingHeight_m>2</StackingHeight_m>
+  <ElasticModulus_GPa>55</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>14</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>8</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>65</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.5</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Stone_Ashlar</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Yard Storage</StorageCategoryDef>
+  <Name>Stone: Ashlar</Name>
+  <ShortName>SA</ShortName>
+</DesignMaterialDef>

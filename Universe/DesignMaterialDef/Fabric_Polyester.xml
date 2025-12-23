@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Fabric: Polyester" Enum="Fabric_Polyester">
+  <Density_kg_per_m3>1380</Density_kg_per_m3>
+  <StackingHeight_m>4</StackingHeight_m>
+  <ElasticModulus_GPa>13.5</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>true</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>950</TensileStrength_MPa>
+  <ElongationAtBreak_percent>16</ElongationAtBreak_percent>
+  <FatigueResistance>7</FatigueResistance>
+  <Metallic>0</Metallic>
+  <Roughness>0.4</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Fabric_Polyester</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Fabric: Polyester</Name>
+  <ShortName>FP</ShortName>
+</DesignMaterialDef>

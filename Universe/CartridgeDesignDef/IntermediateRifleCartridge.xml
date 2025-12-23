@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CartridgeDesignDef ID="Intermediate Rifle Cartridge" Enum="IntermediateRifleCartridge">
+  <DefaultCaseType>Rimless</DefaultCaseType>
+  <MinCaseBodyDiameter_mm>9</MinCaseBodyDiameter_mm>
+  <MaxCaseBodyDiameter_mm>12</MaxCaseBodyDiameter_mm>
+  <DefaultCaseBodyDiameter_mm>9.6</DefaultCaseBodyDiameter_mm>
+  <MinCaseLength_mm>35</MinCaseLength_mm>
+  <MaxCaseLength_mm>42</MaxCaseLength_mm>
+  <DefaultCaseLength_mm>45</DefaultCaseLength_mm>
+  <DefaultCaseMaterial>Copper: Brass</DefaultCaseMaterial>
+  <MinCaseWallThickness_mm>1</MinCaseWallThickness_mm>
+  <MaxCaseWallThickness_mm>2</MaxCaseWallThickness_mm>
+  <DefaultCaseWallThickness_mm>1.5</DefaultCaseWallThickness_mm>
+  <MinCaseNeckDiameter_mm>5.5</MinCaseNeckDiameter_mm>
+  <MaxCaseNeckDiameter_mm>8</MaxCaseNeckDiameter_mm>
+  <DefaultCaseNeckDiameter_mm>6.43</DefaultCaseNeckDiameter_mm>
+  <MinCaseShoulderDiameter_mm>7</MinCaseShoulderDiameter_mm>
+  <MaxCaseShoulderDiameter_mm>10</MaxCaseShoulderDiameter_mm>
+  <DefaultCaseShoulderDiameter_mm>9</DefaultCaseShoulderDiameter_mm>
+  <MinCaseHeadToShoulderLength_mm>25</MinCaseHeadToShoulderLength_mm>
+  <MaxCaseHeadToShoulderLength_mm>35</MaxCaseHeadToShoulderLength_mm>
+  <DefaultCaseHeadToShoulderLength_mm>28</DefaultCaseHeadToShoulderLength_mm>
+  <MinCaseShoulderAngle_degrees>0</MinCaseShoulderAngle_degrees>
+  <MaxCaseShoulderAngle_degrees>60</MaxCaseShoulderAngle_degrees>
+  <DefaultCaseShoulderAngle_degrees>10</DefaultCaseShoulderAngle_degrees>
+  <MinOverallLength_mm>55</MinOverallLength_mm>
+  <MaxOverallLength_mm>65</MaxOverallLength_mm>
+  <DefaultOverallLength_mm>57</DefaultOverallLength_mm>
+  <MinPropellantCharge_grams>1.5</MinPropellantCharge_grams>
+  <MaxPropellantCharge_grams>2.5</MaxPropellantCharge_grams>
+  <DefaultPropellantCharge_grams>1.8</DefaultPropellantCharge_grams>
+  <DefaultPropellantMaterial>Propellant: Smokeless: Single Base</DefaultPropellantMaterial>
+  <MinProjectileDiameter_mm>5.5</MinProjectileDiameter_mm>
+  <MaxProjectileDiameter_mm>8</MaxProjectileDiameter_mm>
+  <DefaultProjectileDiameter_mm>5.56</DefaultProjectileDiameter_mm>
+  <CartridgeDesignDefEnum>IntermediateRifleCartridge</CartridgeDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Intermediate Rifle Cartridge</Name>
+  <ShortName>IRC</ShortName>
+</CartridgeDesignDef>

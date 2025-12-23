@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlopeCategoryDef ID="NoVehicles" Enum="NoVehicles">
+  <MaxSlope>0.5</MaxSlope>
+  <IsVehiclePassable>false</IsVehiclePassable>
+  <IsWheeledVehiclePassable>false</IsWheeledVehiclePassable>
+  <IsBuildable>false</IsBuildable>
+  <IsRunwaySuitable>false</IsRunwaySuitable>
+  <SlopeCategoryDefEnum>NoVehicles</SlopeCategoryDefEnum>
+  <Description>No vehicles can traverse. Infantry only. Very steep terrain requiring careful movement. 30% grade = 16.7°, 50% grade = 26.6°.</Description>
+  <Name>NoVehicles</Name>
+  <ShortName>V.Steep</ShortName>
+</SlopeCategoryDef>

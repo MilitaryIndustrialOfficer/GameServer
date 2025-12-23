@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpireDef ID="Dictatorship" Enum="Dictatorship">
+  <EmpireDefEnum>Dictatorship</EmpireDefEnum>
+  <Name>Dictatorship</Name>
+  <ShortName>D</ShortName>
+</EmpireDef>

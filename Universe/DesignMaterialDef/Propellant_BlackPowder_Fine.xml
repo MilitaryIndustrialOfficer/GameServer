@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Propellant: Black Powder: Fine" Enum="Propellant_BlackPowder_Fine">
+  <BurnRate_mm_per_s>600</BurnRate_mm_per_s>
+  <BurnRateClass>Degressive</BurnRateClass>
+  <Density_kg_per_m3>1650</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>3.2</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <OptimalBarrelLength_mm>500</OptimalBarrelLength_mm>
+  <SmokeProduction>8</SmokeProduction>
+  <TemperatureSensitivity>0.6</TemperatureSensitivity>
+  <BurnRateCoefficient>0.22</BurnRateCoefficient>
+  <BurnRateExponent>0.4</BurnRateExponent>
+  <Metallic>0</Metallic>
+  <Roughness>0.8</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Propellant_BlackPowder_Fine</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Propellant: Black Powder: Fine</Name>
+  <ShortName>PBPF</ShortName>
+</DesignMaterialDef>

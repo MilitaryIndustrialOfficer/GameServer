@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Meat" Enum="Meat">
+  <BaseCost_Credits_per_kg>2</BaseCost_Credits_per_kg>
+  <HalfLifeDays>14</HalfLifeDays>
+  <IsFood>true</IsFood>
+  <FoodCalories_per_kg>2500</FoodCalories_per_kg>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>500</Density_kg_per_m3>
+  <StackingHeight_m>2</StackingHeight_m>
+  <GoodDefEnum>Meat</GoodDefEnum>
+  <GoodCategoryDef>Food</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Meat</Name>
+  <ShortName>M</ShortName>
+</GoodDef>

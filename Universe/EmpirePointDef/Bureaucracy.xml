@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpirePointDef ID="Bureaucracy" Enum="Bureaucracy">
+  <EmpirePointDefEnum>Bureaucracy</EmpirePointDefEnum>
+  <Name>Bureaucracy</Name>
+  <ShortName>B</ShortName>
+</EmpirePointDef>

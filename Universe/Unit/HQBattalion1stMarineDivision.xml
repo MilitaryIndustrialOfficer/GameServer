@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Unit ID="HQ Battalion 1st Marine Division">
+  <OrganicSuperior>1st Marine Division</OrganicSuperior>
+  <UnitTierDef>Battalion</UnitTierDef>
+  <PopDef>American</PopDef>
+  <Empire>USA</Empire>
+  <Name>HQ Battalion, 1st Marine Division</Name>
+  <ShortName>HQ Bn</ShortName>
+</Unit>

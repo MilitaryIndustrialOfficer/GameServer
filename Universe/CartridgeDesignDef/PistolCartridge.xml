@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CartridgeDesignDef ID="Pistol Cartridge" Enum="PistolCartridge">
+  <DefaultCaseType>Rimless</DefaultCaseType>
+  <MinCaseBodyDiameter_mm>7</MinCaseBodyDiameter_mm>
+  <MaxCaseBodyDiameter_mm>12</MaxCaseBodyDiameter_mm>
+  <DefaultCaseBodyDiameter_mm>9.5</DefaultCaseBodyDiameter_mm>
+  <MinCaseLength_mm>15</MinCaseLength_mm>
+  <MaxCaseLength_mm>25</MaxCaseLength_mm>
+  <DefaultCaseLength_mm>19</DefaultCaseLength_mm>
+  <DefaultCaseMaterial>Copper: Brass</DefaultCaseMaterial>
+  <MinCaseWallThickness_mm>0.8</MinCaseWallThickness_mm>
+  <MaxCaseWallThickness_mm>2</MaxCaseWallThickness_mm>
+  <DefaultCaseWallThickness_mm>1.2</DefaultCaseWallThickness_mm>
+  <MinCaseNeckDiameter_mm>6</MinCaseNeckDiameter_mm>
+  <MaxCaseNeckDiameter_mm>11.5</MaxCaseNeckDiameter_mm>
+  <DefaultCaseNeckDiameter_mm>9.7</DefaultCaseNeckDiameter_mm>
+  <MinCaseShoulderDiameter_mm>6.5</MinCaseShoulderDiameter_mm>
+  <MaxCaseShoulderDiameter_mm>12</MaxCaseShoulderDiameter_mm>
+  <DefaultCaseShoulderDiameter_mm>10</DefaultCaseShoulderDiameter_mm>
+  <MinCaseHeadToShoulderLength_mm>12</MinCaseHeadToShoulderLength_mm>
+  <MaxCaseHeadToShoulderLength_mm>20</MaxCaseHeadToShoulderLength_mm>
+  <DefaultCaseHeadToShoulderLength_mm>15</DefaultCaseHeadToShoulderLength_mm>
+  <MinCaseShoulderAngle_degrees>0</MinCaseShoulderAngle_degrees>
+  <MaxCaseShoulderAngle_degrees>20</MaxCaseShoulderAngle_degrees>
+  <DefaultCaseShoulderAngle_degrees>0</DefaultCaseShoulderAngle_degrees>
+  <MinOverallLength_mm>20</MinOverallLength_mm>
+  <MaxOverallLength_mm>35</MaxOverallLength_mm>
+  <DefaultOverallLength_mm>29</DefaultOverallLength_mm>
+  <MinPropellantCharge_grams>0.2</MinPropellantCharge_grams>
+  <MaxPropellantCharge_grams>1.2</MaxPropellantCharge_grams>
+  <DefaultPropellantCharge_grams>0.6</DefaultPropellantCharge_grams>
+  <DefaultPropellantMaterial>Propellant: Smokeless: Early</DefaultPropellantMaterial>
+  <MinProjectileDiameter_mm>6</MinProjectileDiameter_mm>
+  <MaxProjectileDiameter_mm>11.5</MaxProjectileDiameter_mm>
+  <DefaultProjectileDiameter_mm>9</DefaultProjectileDiameter_mm>
+  <CartridgeDesignDefEnum>PistolCartridge</CartridgeDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Pistol Cartridge</Name>
+  <ShortName>PC</ShortName>
+</CartridgeDesignDef>

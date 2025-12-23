@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Regional Command" Enum="RegionalCommand">
+  <UnitTierDefEnum>RegionalCommand</UnitTierDefEnum>
+  <UnitDomainDef>Strategic</UnitDomainDef>
+  <Name>Regional Command</Name>
+  <ShortName>RC</ShortName>
+</UnitTierDef>

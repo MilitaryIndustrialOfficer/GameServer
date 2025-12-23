@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Warehouse" Enum="Warehouse">
+  <ExternalSpace_m2>2500</ExternalSpace_m2>
+  <InternalSpace_m2>6000</InternalSpace_m2>
+  <WallThickness_m>0</WallThickness_m>
+  <WallHeight_m>0</WallHeight_m>
+  <InstallationDefEnum>Warehouse</InstallationDefEnum>
+  <Description>Multi-story storage building. Typical urban warehouse, 2-4 stories.</Description>
+  <Name>Warehouse</Name>
+  <ShortName>W</ShortName>
+</InstallationDef>

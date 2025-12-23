@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KitDesignDef ID="Rifleman" Enum="Rifleman">
+  <KitDesignDefEnum>Rifleman</KitDesignDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Rifleman</Name>
+  <ShortName>R</ShortName>
+</KitDesignDef>

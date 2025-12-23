@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopRaceDef ID="Slavic" Enum="Slavic">
+  <BaseAnnualBirthRate>0.36</BaseAnnualBirthRate>
+  <HasPointyEars>false</HasPointyEars>
+  <MaturityAgeMin>14</MaturityAgeMin>
+  <MaxAge>85</MaxAge>
+  <ReproductiveAgeMax>40</ReproductiveAgeMax>
+  <ReproductiveAgeMin>14</ReproductiveAgeMin>
+  <PopRaceDefEnum>Slavic</PopRaceDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Slavic</Name>
+  <ShortName>S</ShortName>
+</PopRaceDef>

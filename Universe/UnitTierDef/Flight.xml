@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Flight" Enum="Flight">
+  <UnitTierDefEnum>Flight</UnitTierDefEnum>
+  <UnitDomainDef>Air</UnitDomainDef>
+  <Name>Flight</Name>
+  <ShortName>F</ShortName>
+</UnitTierDef>

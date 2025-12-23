@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Wetland" Enum="Wetland">
+  <BiomeClassificationDefEnum>Wetland</BiomeClassificationDefEnum>
+  <Description>Wetland - marshes, swamps, bogs, fens.</Description>
+  <Name>Wetland</Name>
+  <ShortName>Wetland</ShortName>
+</BiomeClassificationDef>

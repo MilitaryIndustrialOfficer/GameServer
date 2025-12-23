@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StorageCategoryDef ID="Vault Storage" Enum="VaultStorage">
+  <StorageCategoryDefEnum>VaultStorage</StorageCategoryDefEnum>
+  <Name>Vault Storage</Name>
+  <ShortName>VS</ShortName>
+</StorageCategoryDef>

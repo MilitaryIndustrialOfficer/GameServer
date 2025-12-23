@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EraDef ID="First" Enum="First">
+  <EraDefEnum>First</EraDefEnum>
+  <Name>First</Name>
+  <ShortName>F</ShortName>
+</EraDef>

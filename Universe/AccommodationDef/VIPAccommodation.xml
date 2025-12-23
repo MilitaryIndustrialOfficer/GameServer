@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AccommodationDef ID="VIP Accommodation" Enum="VIPAccommodation">
+  <AccommodationDefEnum>VIPAccommodation</AccommodationDefEnum>
+  <Name>VIP Accommodation</Name>
+  <ShortName>VIPA</ShortName>
+</AccommodationDef>

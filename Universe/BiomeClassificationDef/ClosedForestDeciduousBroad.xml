@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Closed Forest Deciduous Broad" Enum="ClosedForestDeciduousBroad">
+  <BiomeClassificationDefEnum>ClosedForestDeciduousBroad</BiomeClassificationDefEnum>
+  <Description>Closed forest - deciduous broad-leaf (temperate hardwoods). Canopy cover greater than 70%.</Description>
+  <Name>Closed Forest Deciduous Broad</Name>
+  <ShortName>Forest</ShortName>
+</BiomeClassificationDef>

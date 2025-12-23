@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GearUniformDesignDef ID="Combat Uniform" Enum="CombatUniform">
+  <DefaultUniformConfiguration>TwoPiece</DefaultUniformConfiguration>
+  <DefaultOuterLayer>None</DefaultOuterLayer>
+  <DefaultFastener>Buttons</DefaultFastener>
+  <DefaultSleeveLength>Long</DefaultSleeveLength>
+  <DefaultPantsLength>Full</DefaultPantsLength>
+  <DefaultShirtMaterial>Fabric: Cotton</DefaultShirtMaterial>
+  <DefaultPantsMaterial>Fabric: Cotton</DefaultPantsMaterial>
+  <DefaultFittingsMaterial>Copper: Brass</DefaultFittingsMaterial>
+  <MinShirtThickness_mm>0.8</MinShirtThickness_mm>
+  <MaxShirtThickness_mm>2.5</MaxShirtThickness_mm>
+  <DefaultShirtThickness_mm>1.2</DefaultShirtThickness_mm>
+  <MinPantsThickness_mm>0.8</MinPantsThickness_mm>
+  <MaxPantsThickness_mm>2.5</MaxPantsThickness_mm>
+  <DefaultPantsThickness_mm>1.2</DefaultPantsThickness_mm>
+  <MinOuterwearThickness_mm>0</MinOuterwearThickness_mm>
+  <MaxOuterwearThickness_mm>0</MaxOuterwearThickness_mm>
+  <DefaultOuterwearThickness_mm>0</DefaultOuterwearThickness_mm>
+  <GearUniformDesignDefEnum>CombatUniform</GearUniformDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Combat Uniform</Name>
+  <ShortName>CU</ShortName>
+</GearUniformDesignDef>

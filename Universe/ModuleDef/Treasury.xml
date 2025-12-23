@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModuleDef ID="Treasury" Enum="Treasury">
+  <LandFootprint_m2>200</LandFootprint_m2>
+  <Stories>1</Stories>
+  <IsExternal>false</IsExternal>
+  <AdministrativeCapacity_seats>50</AdministrativeCapacity_seats>
+  <AdministrativeCapacity_multiplier>1</AdministrativeCapacity_multiplier>
+  <WallThickness_m>1</WallThickness_m>
+  <WallHeight_m>3</WallHeight_m>
+  <ModuleDefEnum>Treasury</ModuleDefEnum>
+  <Description>Secure vault for gold, silver, valuables. Thick walls, iron door, guards.</Description>
+  <Name>Treasury</Name>
+  <ShortName>T</ShortName>
+</ModuleDef>

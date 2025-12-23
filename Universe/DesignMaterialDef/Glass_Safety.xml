@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Glass: Safety" Enum="Glass_Safety">
+  <CorrosionResistance>8</CorrosionResistance>
+  <Density_kg_per_m3>2400</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <ElasticModulus_GPa>75</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>120</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>8</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>84</YieldStrength_MPa>
+  <Metallic>0</Metallic>
+  <Roughness>0.1</Roughness>
+  <Opacity>0.2</Opacity>
+  <DesignMaterialDefEnum>Glass_Safety</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Glass: Safety</Name>
+  <ShortName>GS</ShortName>
+</DesignMaterialDef>

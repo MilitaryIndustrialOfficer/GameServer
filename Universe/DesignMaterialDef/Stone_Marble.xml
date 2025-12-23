@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Stone: Marble" Enum="Stone_Marble">
+  <CorrosionResistance>7</CorrosionResistance>
+  <Density_kg_per_m3>2650</Density_kg_per_m3>
+  <StackingHeight_m>2</StackingHeight_m>
+  <ElasticModulus_GPa>60</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>15</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>9</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>80</YieldStrength_MPa>
+  <Metallic>0.02</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>0.98</Opacity>
+  <DesignMaterialDefEnum>Stone_Marble</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Yard Storage</StorageCategoryDef>
+  <Name>Stone: Marble</Name>
+  <ShortName>SM</ShortName>
+</DesignMaterialDef>

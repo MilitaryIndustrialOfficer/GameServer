@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Explosives" Enum="Explosives">
+  <BaseCost_Credits_per_kg>2.4</BaseCost_Credits_per_kg>
+  <HalfLifeDays>3600</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>1200</Density_kg_per_m3>
+  <StackingHeight_m>2</StackingHeight_m>
+  <GoodDefEnum>Explosives</GoodDefEnum>
+  <GoodCategoryDef>Intermediate</GoodCategoryDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Explosives</Name>
+  <ShortName>E</ShortName>
+</GoodDef>

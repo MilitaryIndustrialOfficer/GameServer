@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TurretDesignDef ID="Remote Weapon Station" Enum="RemoteWeaponStation">
+  <DefaultTurretType>RemoteWeapon</DefaultTurretType>
+  <MinRingDiameter_mm>400</MinRingDiameter_mm>
+  <MaxRingDiameter_mm>800</MaxRingDiameter_mm>
+  <DefaultRingDiameter_mm>600</DefaultRingDiameter_mm>
+  <MinBasketDiameter_mm>0</MinBasketDiameter_mm>
+  <MaxBasketDiameter_mm>0</MaxBasketDiameter_mm>
+  <DefaultBasketDiameter_mm>0</DefaultBasketDiameter_mm>
+  <MinRoofHeight_mm>300</MinRoofHeight_mm>
+  <MaxRoofHeight_mm>600</MaxRoofHeight_mm>
+  <DefaultRoofHeight_mm>450</DefaultRoofHeight_mm>
+  <MinFrontalWidth_mm>500</MinFrontalWidth_mm>
+  <MaxFrontalWidth_mm>900</MaxFrontalWidth_mm>
+  <DefaultFrontalWidth_mm>700</DefaultFrontalWidth_mm>
+  <MinSideLength_mm>400</MinSideLength_mm>
+  <MaxSideLength_mm>700</MaxSideLength_mm>
+  <DefaultSideLength_mm>550</DefaultSideLength_mm>
+  <MinMaxTraverseSpeed_deg_s>60</MinMaxTraverseSpeed_deg_s>
+  <MaxMaxTraverseSpeed_deg_s>120</MaxMaxTraverseSpeed_deg_s>
+  <DefaultMaxTraverseSpeed_deg_s>90</DefaultMaxTraverseSpeed_deg_s>
+  <MinTraverseAcceleration_deg_s2>100</MinTraverseAcceleration_deg_s2>
+  <MaxTraverseAcceleration_deg_s2>200</MaxTraverseAcceleration_deg_s2>
+  <DefaultTraverseAcceleration_deg_s2>150</DefaultTraverseAcceleration_deg_s2>
+  <MinManualTraverseRate_deg_crank>0</MinManualTraverseRate_deg_crank>
+  <MaxManualTraverseRate_deg_crank>0</MaxManualTraverseRate_deg_crank>
+  <DefaultManualTraverseRate_deg_crank>0</DefaultManualTraverseRate_deg_crank>
+  <MinMaxElevation_deg>50</MinMaxElevation_deg>
+  <MaxMaxElevation_deg>75</MaxMaxElevation_deg>
+  <DefaultMaxElevation_deg>60</DefaultMaxElevation_deg>
+  <MinMaxDepression_deg>15</MinMaxDepression_deg>
+  <MaxMaxDepression_deg>25</MaxMaxDepression_deg>
+  <DefaultMaxDepression_deg>20</DefaultMaxDepression_deg>
+  <MinElevationSpeed_deg_s>40</MinElevationSpeed_deg_s>
+  <MaxElevationSpeed_deg_s>60</MaxElevationSpeed_deg_s>
+  <DefaultElevationSpeed_deg_s>50</DefaultElevationSpeed_deg_s>
+  <DefaultStabilization>TwoAxis</DefaultStabilization>
+  <MinStabilizationAccuracy_mrad>0.1</MinStabilizationAccuracy_mrad>
+  <MaxStabilizationAccuracy_mrad>0.3</MaxStabilizationAccuracy_mrad>
+  <DefaultStabilizationAccuracy_mrad>0.15</DefaultStabilizationAccuracy_mrad>
+  <MinCrewCount>0</MinCrewCount>
+  <MaxCrewCount>0</MaxCrewCount>
+  <DefaultCrewCount>0</DefaultCrewCount>
+  <DefaultHasCommanderCupola>false</DefaultHasCommanderCupola>
+  <DefaultHasLoaderPosition>false</DefaultHasLoaderPosition>
+  <DefaultTurretMaterial>Aluminum: Alloy</DefaultTurretMaterial>
+  <TurretDesignDefEnum>RemoteWeaponStation</TurretDesignDefEnum>
+  <Name>Remote Weapon Station</Name>
+  <ShortName>RWS</ShortName>
+</TurretDesignDef>

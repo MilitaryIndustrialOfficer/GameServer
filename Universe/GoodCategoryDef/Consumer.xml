@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodCategoryDef ID="Consumer" Enum="Consumer">
+  <GoodCategoryDefEnum>Consumer</GoodCategoryDefEnum>
+  <Name>Consumer</Name>
+  <ShortName>C</ShortName>
+</GoodCategoryDef>

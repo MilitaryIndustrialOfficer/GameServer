@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Copper: Refined" Enum="Copper_Refined">
+  <CorrosionResistance>8</CorrosionResistance>
+  <Density_kg_per_m3>8960</Density_kg_per_m3>
+  <StackingHeight_m>1.2</StackingHeight_m>
+  <ElasticModulus_GPa>110</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>true</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>220</TensileStrength_MPa>
+  <ThermalExpansion_ppm_C>17</ThermalExpansion_ppm_C>
+  <YieldStrength_MPa>70</YieldStrength_MPa>
+  <Metallic>0.95</Metallic>
+  <Roughness>0.3</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Copper_Refined</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Copper: Refined</Name>
+  <ShortName>CR</ShortName>
+</DesignMaterialDef>

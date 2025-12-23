@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementCategoryDef ID="Pressure" Enum="Pressure">
+  <MeasurementCategoryDefEnum>Pressure</MeasurementCategoryDefEnum>
+  <Name>Pressure</Name>
+  <ShortName>P</ShortName>
+</MeasurementCategoryDef>

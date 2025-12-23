@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpireDef ID="Monarchy" Enum="Monarchy">
+  <EmpireDefEnum>Monarchy</EmpireDefEnum>
+  <Name>Monarchy</Name>
+  <ShortName>M</ShortName>
+</EmpireDef>

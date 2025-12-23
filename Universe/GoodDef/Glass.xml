@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Glass" Enum="Glass">
+  <BaseCost_Credits_per_kg>0.8</BaseCost_Credits_per_kg>
+  <HalfLifeDays>18000</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>2500</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <GoodDefEnum>Glass</GoodDefEnum>
+  <GoodCategoryDef>Intermediate</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Glass</Name>
+  <ShortName>G</ShortName>
+</GoodDef>

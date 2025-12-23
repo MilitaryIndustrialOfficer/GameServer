@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Fabric: Glass Fiber" Enum="Fabric_GlassFiber">
+  <Density_kg_per_m3>2540</Density_kg_per_m3>
+  <StackingHeight_m>4</StackingHeight_m>
+  <ElasticModulus_GPa>72</ElasticModulus_GPa>
+  <IsPropellant>false</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>true</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <TensileStrength_MPa>2750</TensileStrength_MPa>
+  <ElongationAtBreak_percent>3.5</ElongationAtBreak_percent>
+  <FatigueResistance>7</FatigueResistance>
+  <Metallic>0</Metallic>
+  <Roughness>0.2</Roughness>
+  <Opacity>0.9</Opacity>
+  <DesignMaterialDefEnum>Fabric_GlassFiber</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Fabric: Glass Fiber</Name>
+  <ShortName>FGF</ShortName>
+</DesignMaterialDef>

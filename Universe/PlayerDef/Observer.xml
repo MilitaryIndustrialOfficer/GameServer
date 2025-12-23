@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerDef ID="Observer" Enum="Observer">
+  <PlayerDefEnum>Observer</PlayerDefEnum>
+  <Name>Observer</Name>
+  <ShortName>O</ShortName>
+</PlayerDef>

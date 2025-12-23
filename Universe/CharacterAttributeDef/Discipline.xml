@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharacterAttributeDef ID="Discipline" Enum="Discipline">
+  <CharacterAttributeDefEnum>Discipline</CharacterAttributeDefEnum>
+  <Name>Discipline</Name>
+  <ShortName>D</ShortName>
+</CharacterAttributeDef>

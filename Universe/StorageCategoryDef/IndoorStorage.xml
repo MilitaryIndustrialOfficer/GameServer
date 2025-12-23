@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StorageCategoryDef ID="Indoor Storage" Enum="IndoorStorage">
+  <StorageCategoryDefEnum>IndoorStorage</StorageCategoryDefEnum>
+  <Name>Indoor Storage</Name>
+  <ShortName>IS</ShortName>
+</StorageCategoryDef>

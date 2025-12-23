@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceDef ID="Government Service" Enum="GovernmentService">
+  <ServiceDefEnum>GovernmentService</ServiceDefEnum>
+  <Name>Government Service</Name>
+  <ShortName>GS</ShortName>
+</ServiceDef>

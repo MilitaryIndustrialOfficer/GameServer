@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KitDesignDef ID="Squad Leader" Enum="SquadLeader">
+  <KitDesignDefEnum>SquadLeader</KitDesignDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Squad Leader</Name>
+  <ShortName>SL</ShortName>
+</KitDesignDef>

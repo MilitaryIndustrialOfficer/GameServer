@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MarketDef ID="Estates" Enum="Estates">
+  <MarketDefEnum>Estates</MarketDefEnum>
+  <Name>Estates</Name>
+  <ShortName>E</ShortName>
+</MarketDef>

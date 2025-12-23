@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Herbaceous" Enum="Herbaceous">
+  <BiomeClassificationDefEnum>Herbaceous</BiomeClassificationDefEnum>
+  <Description>Herbaceous vegetation - grassland, savanna, steppe.</Description>
+  <Name>Herbaceous</Name>
+  <ShortName>Grass</ShortName>
+</BiomeClassificationDef>

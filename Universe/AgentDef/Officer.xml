@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AgentDef ID="Officer" Enum="Officer">
+  <AgentDefEnum>Officer</AgentDefEnum>
+  <Name>Officer</Name>
+  <ShortName>O</ShortName>
+</AgentDef>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CartridgeDesignDef ID="Heavy Machine Gun Cartridge" Enum="HeavyMachineGunCartridge">
+  <DefaultCaseType>Rimless</DefaultCaseType>
+  <MinCaseBodyDiameter_mm>12</MinCaseBodyDiameter_mm>
+  <MaxCaseBodyDiameter_mm>21</MaxCaseBodyDiameter_mm>
+  <DefaultCaseBodyDiameter_mm>20.4</DefaultCaseBodyDiameter_mm>
+  <MinCaseLength_mm>90</MinCaseLength_mm>
+  <MaxCaseLength_mm>110</MaxCaseLength_mm>
+  <DefaultCaseLength_mm>99</DefaultCaseLength_mm>
+  <DefaultCaseMaterial>Copper: Brass</DefaultCaseMaterial>
+  <MinCaseWallThickness_mm>2</MinCaseWallThickness_mm>
+  <MaxCaseWallThickness_mm>4</MaxCaseWallThickness_mm>
+  <DefaultCaseWallThickness_mm>3</DefaultCaseWallThickness_mm>
+  <MinCaseNeckDiameter_mm>13</MinCaseNeckDiameter_mm>
+  <MaxCaseNeckDiameter_mm>21</MaxCaseNeckDiameter_mm>
+  <DefaultCaseNeckDiameter_mm>13.8</DefaultCaseNeckDiameter_mm>
+  <MinCaseShoulderDiameter_mm>15</MinCaseShoulderDiameter_mm>
+  <MaxCaseShoulderDiameter_mm>22</MaxCaseShoulderDiameter_mm>
+  <DefaultCaseShoulderDiameter_mm>18.9</DefaultCaseShoulderDiameter_mm>
+  <MinCaseHeadToShoulderLength_mm>55</MinCaseHeadToShoulderLength_mm>
+  <MaxCaseHeadToShoulderLength_mm>75</MaxCaseHeadToShoulderLength_mm>
+  <DefaultCaseHeadToShoulderLength_mm>72</DefaultCaseHeadToShoulderLength_mm>
+  <MinCaseShoulderAngle_degrees>0</MinCaseShoulderAngle_degrees>
+  <MaxCaseShoulderAngle_degrees>60</MaxCaseShoulderAngle_degrees>
+  <DefaultCaseShoulderAngle_degrees>20</DefaultCaseShoulderAngle_degrees>
+  <MinOverallLength_mm>130</MinOverallLength_mm>
+  <MaxOverallLength_mm>170</MaxOverallLength_mm>
+  <DefaultOverallLength_mm>138</DefaultOverallLength_mm>
+  <MinPropellantCharge_grams>12</MinPropellantCharge_grams>
+  <MaxPropellantCharge_grams>18</MaxPropellantCharge_grams>
+  <DefaultPropellantCharge_grams>15</DefaultPropellantCharge_grams>
+  <DefaultPropellantMaterial>Propellant: Smokeless: Single Base</DefaultPropellantMaterial>
+  <MinProjectileDiameter_mm>12.5</MinProjectileDiameter_mm>
+  <MaxProjectileDiameter_mm>20.5</MaxProjectileDiameter_mm>
+  <DefaultProjectileDiameter_mm>12.7</DefaultProjectileDiameter_mm>
+  <CartridgeDesignDefEnum>HeavyMachineGunCartridge</CartridgeDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Heavy Machine Gun Cartridge</Name>
+  <ShortName>HMGC</ShortName>
+</CartridgeDesignDef>

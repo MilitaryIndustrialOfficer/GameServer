@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopRaceDef ID="Latin" Enum="Latin">
+  <BaseAnnualBirthRate>0.32</BaseAnnualBirthRate>
+  <HasPointyEars>false</HasPointyEars>
+  <MaturityAgeMin>13</MaturityAgeMin>
+  <MaxAge>90</MaxAge>
+  <ReproductiveAgeMax>45</ReproductiveAgeMax>
+  <ReproductiveAgeMin>13</ReproductiveAgeMin>
+  <PopRaceDefEnum>Latin</PopRaceDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Latin</Name>
+  <ShortName>L</ShortName>
+</PopRaceDef>

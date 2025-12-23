@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopRaceDef ID="Negroid" Enum="Negroid">
+  <BaseAnnualBirthRate>0.4</BaseAnnualBirthRate>
+  <HasPointyEars>false</HasPointyEars>
+  <MaturityAgeMin>12</MaturityAgeMin>
+  <MaxAge>70</MaxAge>
+  <ReproductiveAgeMax>34</ReproductiveAgeMax>
+  <ReproductiveAgeMin>12</ReproductiveAgeMin>
+  <PopRaceDefEnum>Negroid</PopRaceDefEnum>
+  <PopMorphDef>Human</PopMorphDef>
+  <Name>Negroid</Name>
+  <ShortName>N</ShortName>
+</PopRaceDef>

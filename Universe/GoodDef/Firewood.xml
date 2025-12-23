@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Firewood" Enum="Firewood">
+  <BaseCost_Credits_per_kg>0.02</BaseCost_Credits_per_kg>
+  <HalfLifeDays>1800</HalfLifeDays>
+  <IsFood>false</IsFood>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>true</IsFuel>
+  <EnergyContent_MJ_per_kg>15</EnergyContent_MJ_per_kg>
+  <Density_kg_per_m3>600</Density_kg_per_m3>
+  <StackingHeight_m>3</StackingHeight_m>
+  <GoodDefEnum>Firewood</GoodDefEnum>
+  <GoodCategoryDef>Energy</GoodCategoryDef>
+  <StorageCategoryDef>Yard Storage</StorageCategoryDef>
+  <Name>Firewood</Name>
+  <ShortName>F</ShortName>
+</GoodDef>

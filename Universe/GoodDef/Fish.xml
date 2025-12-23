@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodDef ID="Fish" Enum="Fish">
+  <BaseCost_Credits_per_kg>0.2</BaseCost_Credits_per_kg>
+  <HalfLifeDays>7</HalfLifeDays>
+  <IsFood>true</IsFood>
+  <FoodCalories_per_kg>1800</FoodCalories_per_kg>
+  <IsLivestock>false</IsLivestock>
+  <IsFuel>false</IsFuel>
+  <Density_kg_per_m3>450</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <GoodDefEnum>Fish</GoodDefEnum>
+  <GoodCategoryDef>Food</GoodCategoryDef>
+  <StorageCategoryDef>Indoor Storage</StorageCategoryDef>
+  <Name>Fish</Name>
+  <ShortName>F</ShortName>
+</GoodDef>

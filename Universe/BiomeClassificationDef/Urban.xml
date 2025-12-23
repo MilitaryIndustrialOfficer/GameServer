@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Urban" Enum="Urban">
+  <BiomeClassificationDefEnum>Urban</BiomeClassificationDefEnum>
+  <Description>Urban - built-up areas, cities, infrastructure.</Description>
+  <Name>Urban</Name>
+  <ShortName>Urban</ShortName>
+</BiomeClassificationDef>

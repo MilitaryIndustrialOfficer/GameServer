@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DesignMaterialDef ID="Explosive: Compound: HE" Enum="Explosive_Compound_HE">
+  <BurnRate_mm_per_s>0.1</BurnRate_mm_per_s>
+  <Density_kg_per_m3>1650</Density_kg_per_m3>
+  <StackingHeight_m>2.5</StackingHeight_m>
+  <EnergyDensity_MJ_kg>4.6</EnergyDensity_MJ_kg>
+  <IsPropellant>true</IsPropellant>
+  <IsSolid>false</IsSolid>
+  <IsTreadCompound>false</IsTreadCompound>
+  <IsCarcassRubber>false</IsCarcassRubber>
+  <IsTireCord>false</IsTireCord>
+  <IsRimMaterial>false</IsRimMaterial>
+  <SmokeProduction>1</SmokeProduction>
+  <Metallic>0</Metallic>
+  <Roughness>0.7</Roughness>
+  <Opacity>1</Opacity>
+  <DesignMaterialDefEnum>Explosive_Compound_HE</DesignMaterialDefEnum>
+  <EraDef>First</EraDef>
+  <StorageCategoryDef>Magazine Storage</StorageCategoryDef>
+  <Name>Explosive: Compound: HE</Name>
+  <ShortName>ECHE</ShortName>
+</DesignMaterialDef>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModuleDef ID="Barracks" Enum="Barracks">
+  <LandFootprint_m2>800</LandFootprint_m2>
+  <Stories>2</Stories>
+  <IsExternal>true</IsExternal>
+  <AdministrativeCapacity_seats>0</AdministrativeCapacity_seats>
+  <AdministrativeCapacity_multiplier>0</AdministrativeCapacity_multiplier>
+  <WallThickness_m>0.5</WallThickness_m>
+  <WallHeight_m>8</WallHeight_m>
+  <ModuleDefEnum>Barracks</ModuleDefEnum>
+  <Description>Enlisted housing. 50 soldiers per building. Bunks, lockers, common areas.</Description>
+  <Name>Barracks</Name>
+  <ShortName>B</ShortName>
+</ModuleDef>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StorageCategoryDef ID="Magazine Storage" Enum="MagazineStorage">
+  <StorageCategoryDefEnum>MagazineStorage</StorageCategoryDefEnum>
+  <Name>Magazine Storage</Name>
+  <ShortName>MS</ShortName>
+</StorageCategoryDef>

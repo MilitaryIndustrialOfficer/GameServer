@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArmorDesignDef ID="Cage Armor" Enum="CageArmor">
+  <ArmorDesignDefEnum>CageArmor</ArmorDesignDefEnum>
+  <Name>Cage Armor</Name>
+  <ShortName>CA</ShortName>
+</ArmorDesignDef>

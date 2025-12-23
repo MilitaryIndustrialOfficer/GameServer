@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GearFirearmDesignDef ID="Bolt Action Rifle" Enum="BoltActionRifle">
+  <GearFirearmDesignDefEnum>BoltActionRifle</GearFirearmDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Bolt Action Rifle</Name>
+  <ShortName>BAR</ShortName>
+</GearFirearmDesignDef>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EngineDesignDef ID="Light Gasoline Engine" Enum="LightGasolineEngine">
+  <DefaultEngineCycle>FourStroke</DefaultEngineCycle>
+  <DefaultBlockConfiguration>Inline</DefaultBlockConfiguration>
+  <MinCylinderCount>4</MinCylinderCount>
+  <MaxCylinderCount>6</MaxCylinderCount>
+  <DefaultCylinderCount>4</DefaultCylinderCount>
+  <MinBore_mm>70</MinBore_mm>
+  <MaxBore_mm>90</MaxBore_mm>
+  <DefaultBore_mm>80</DefaultBore_mm>
+  <MinStroke_mm>60</MinStroke_mm>
+  <MaxStroke_mm>80</MaxStroke_mm>
+  <DefaultStroke_mm>70</DefaultStroke_mm>
+  <MinClearanceHeight_mm>8</MinClearanceHeight_mm>
+  <MaxClearanceHeight_mm>15</MaxClearanceHeight_mm>
+  <DefaultClearanceHeight_mm>10</DefaultClearanceHeight_mm>
+  <MinEngineMaximumRPM>5000</MinEngineMaximumRPM>
+  <MaxEngineMaximumRPM>6000</MaxEngineMaximumRPM>
+  <DefaultEngineMaximumRPM>5500</DefaultEngineMaximumRPM>
+  <DefaultFuelType>Gasoline</DefaultFuelType>
+  <DefaultBlockMaterial>Iron: Cast</DefaultBlockMaterial>
+  <MinCrankshaftDiameter_mm>40</MinCrankshaftDiameter_mm>
+  <MaxCrankshaftDiameter_mm>60</MaxCrankshaftDiameter_mm>
+  <DefaultCrankshaftDiameter_mm>48</DefaultCrankshaftDiameter_mm>
+  <MinRodLengthFactor>1.5</MinRodLengthFactor>
+  <MaxRodLengthFactor>2</MaxRodLengthFactor>
+  <DefaultRodLengthFactor>1.75</DefaultRodLengthFactor>
+  <DefaultCrankshaftMaterial>Steel: Medium Carbon</DefaultCrankshaftMaterial>
+  <DefaultConnectingRodMaterial>Steel: Medium Carbon</DefaultConnectingRodMaterial>
+  <DefaultPistonMaterial>Aluminum: Alloy</DefaultPistonMaterial>
+  <DefaultValveConfiguration>OverheadValve2</DefaultValveConfiguration>
+  <DefaultValveMaterial>Steel: Medium Carbon</DefaultValveMaterial>
+  <DefaultValveSpringMaterial>Steel: High Carbon</DefaultValveSpringMaterial>
+  <EngineDesignDefEnum>LightGasolineEngine</EngineDesignDefEnum>
+  <Name>Light Gasoline Engine</Name>
+  <ShortName>LGE</ShortName>
+</EngineDesignDef>

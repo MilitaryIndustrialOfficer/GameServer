@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopDef ID="Japanese" Enum="Japanese">
+  <PopDefEnum>Japanese</PopDefEnum>
+  <PopRaceDef>Mongoloid</PopRaceDef>
+  <Name>Japanese</Name>
+  <ShortName>J</ShortName>
+</PopDef>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TurretDesignDef ID="Modern MBT Turret" Enum="ModernMBTTurret">
+  <DefaultTurretType>FullyPowered</DefaultTurretType>
+  <MinRingDiameter_mm>1900</MinRingDiameter_mm>
+  <MaxRingDiameter_mm>2200</MaxRingDiameter_mm>
+  <DefaultRingDiameter_mm>2159</DefaultRingDiameter_mm>
+  <MinBasketDiameter_mm>1800</MinBasketDiameter_mm>
+  <MaxBasketDiameter_mm>2100</MaxBasketDiameter_mm>
+  <DefaultBasketDiameter_mm>1950</DefaultBasketDiameter_mm>
+  <MinRoofHeight_mm>900</MinRoofHeight_mm>
+  <MaxRoofHeight_mm>1200</MaxRoofHeight_mm>
+  <DefaultRoofHeight_mm>1050</DefaultRoofHeight_mm>
+  <MinFrontalWidth_mm>2500</MinFrontalWidth_mm>
+  <MaxFrontalWidth_mm>3200</MaxFrontalWidth_mm>
+  <DefaultFrontalWidth_mm>2800</DefaultFrontalWidth_mm>
+  <MinSideLength_mm>2000</MinSideLength_mm>
+  <MaxSideLength_mm>2800</MaxSideLength_mm>
+  <DefaultSideLength_mm>2400</DefaultSideLength_mm>
+  <MinMaxTraverseSpeed_deg_s>30</MinMaxTraverseSpeed_deg_s>
+  <MaxMaxTraverseSpeed_deg_s>45</MaxMaxTraverseSpeed_deg_s>
+  <DefaultMaxTraverseSpeed_deg_s>40</DefaultMaxTraverseSpeed_deg_s>
+  <MinTraverseAcceleration_deg_s2>30</MinTraverseAcceleration_deg_s2>
+  <MaxTraverseAcceleration_deg_s2>60</MaxTraverseAcceleration_deg_s2>
+  <DefaultTraverseAcceleration_deg_s2>45</DefaultTraverseAcceleration_deg_s2>
+  <MinManualTraverseRate_deg_crank>0.1</MinManualTraverseRate_deg_crank>
+  <MaxManualTraverseRate_deg_crank>0.3</MaxManualTraverseRate_deg_crank>
+  <DefaultManualTraverseRate_deg_crank>0.2</DefaultManualTraverseRate_deg_crank>
+  <MinMaxElevation_deg>18</MinMaxElevation_deg>
+  <MaxMaxElevation_deg>25</MaxMaxElevation_deg>
+  <DefaultMaxElevation_deg>20</DefaultMaxElevation_deg>
+  <MinMaxDepression_deg>8</MinMaxDepression_deg>
+  <MaxMaxDepression_deg>12</MaxMaxDepression_deg>
+  <DefaultMaxDepression_deg>10</DefaultMaxDepression_deg>
+  <MinElevationSpeed_deg_s>20</MinElevationSpeed_deg_s>
+  <MaxElevationSpeed_deg_s>30</MaxElevationSpeed_deg_s>
+  <DefaultElevationSpeed_deg_s>25</DefaultElevationSpeed_deg_s>
+  <DefaultStabilization>TwoAxis</DefaultStabilization>
+  <MinStabilizationAccuracy_mrad>0.1</MinStabilizationAccuracy_mrad>
+  <MaxStabilizationAccuracy_mrad>0.5</MaxStabilizationAccuracy_mrad>
+  <DefaultStabilizationAccuracy_mrad>0.2</DefaultStabilizationAccuracy_mrad>
+  <MinCrewCount>3</MinCrewCount>
+  <MaxCrewCount>4</MaxCrewCount>
+  <DefaultCrewCount>3</DefaultCrewCount>
+  <DefaultHasCommanderCupola>true</DefaultHasCommanderCupola>
+  <DefaultHasLoaderPosition>true</DefaultHasLoaderPosition>
+  <DefaultTurretMaterial>Steel: Armor: RHA</DefaultTurretMaterial>
+  <TurretDesignDefEnum>ModernMBTTurret</TurretDesignDefEnum>
+  <Name>Modern MBT Turret</Name>
+  <ShortName>MMBTT</ShortName>
+</TurretDesignDef>

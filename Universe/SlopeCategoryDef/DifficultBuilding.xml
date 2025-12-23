@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlopeCategoryDef ID="DifficultBuilding" Enum="DifficultBuilding">
+  <MaxSlope>0.15</MaxSlope>
+  <IsVehiclePassable>true</IsVehiclePassable>
+  <IsWheeledVehiclePassable>true</IsWheeledVehiclePassable>
+  <IsBuildable>true</IsBuildable>
+  <IsRunwaySuitable>false</IsRunwaySuitable>
+  <SlopeCategoryDefEnum>DifficultBuilding</SlopeCategoryDefEnum>
+  <Description>Buildable with significant earthwork or terracing. Maximum practical road grade (10%). Expensive foundations. Suitable for bunkers, fortifications, mountain roads.</Description>
+  <Name>DifficultBuilding</Name>
+  <ShortName>Difficult</ShortName>
+</SlopeCategoryDef>

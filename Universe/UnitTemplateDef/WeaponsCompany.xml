@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTemplateDef ID="Weapons Company" Enum="WeaponsCompany">
+  <UnitTemplateDefEnum>WeaponsCompany</UnitTemplateDefEnum>
+  <Name>UnitTemplateDef Weapons Company</Name>
+  <ShortName>UTDWC</ShortName>
+</UnitTemplateDef>

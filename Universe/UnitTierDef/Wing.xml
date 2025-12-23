@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitTierDef ID="Wing" Enum="Wing">
+  <UnitTierDefEnum>Wing</UnitTierDefEnum>
+  <UnitDomainDef>Air</UnitDomainDef>
+  <Name>Wing</Name>
+  <ShortName>W</ShortName>
+</UnitTierDef>

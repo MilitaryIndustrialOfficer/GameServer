@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDef ID="Monastery" Enum="Monastery">
+  <ExternalSpace_m2>15000</ExternalSpace_m2>
+  <InternalSpace_m2>5000</InternalSpace_m2>
+  <WallThickness_m>1.5</WallThickness_m>
+  <WallHeight_m>6</WallHeight_m>
+  <InstallationDefEnum>Monastery</InstallationDefEnum>
+  <Description>Monastic complex with cloister, church, dormitories, workshops. Examples: Westminster Abbey, Fountains Abbey.</Description>
+  <Name>Monastery</Name>
+  <ShortName>M</ShortName>
+</InstallationDef>

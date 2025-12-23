@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SectorDef ID="Tribal Sector" Enum="TribalSector">
+  <OwnerProfession>Tribesmen</OwnerProfession>
+  <SectorDefEnum>TribalSector</SectorDefEnum>
+  <Name>Tribal Sector</Name>
+  <ShortName>TS</ShortName>
+</SectorDef>

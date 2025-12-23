@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Unit ID="1st Marines">
+  <OrganicSuperior>1st Marine Division</OrganicSuperior>
+  <UnitTierDef>Regiment</UnitTierDef>
+  <PopDef>American</PopDef>
+  <Empire>USA</Empire>
+  <Name>Unit 1st Marines</Name>
+  <ShortName>1st Mar</ShortName>
+</Unit>

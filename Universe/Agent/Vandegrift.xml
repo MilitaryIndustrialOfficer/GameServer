@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Agent ID="Vandegrift">
+  <FirstName>Alexander Archer</FirstName>
+  <LastName>Vandegrift</LastName>
+  <CanBePlayed>true</CanBePlayed>
+  <CommanderUnit>1st Marine Division</CommanderUnit>
+  <AgentDef>Officer</AgentDef>
+  <PopDef>American</PopDef>
+  <Empire>USA</Empire>
+  <DateOfBirth>0</DateOfBirth>
+  <Name>Agent Vandegrift</Name>
+  <ShortName>AV</ShortName>
+</Agent>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BiomeClassificationDef ID="Inland Water" Enum="InlandWater">
+  <BiomeClassificationDefEnum>InlandWater</BiomeClassificationDefEnum>
+  <Description>Inland water bodies - lakes, large rivers, reservoirs. Navigable by some ships.</Description>
+  <Name>Inland Water</Name>
+  <ShortName>Water</ShortName>
+</BiomeClassificationDef>

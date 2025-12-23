@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlopeCategoryDef ID="Impassable" Enum="Impassable">
+  <MaxSlope>1.7976931348623157E+308</MaxSlope>
+  <IsVehiclePassable>false</IsVehiclePassable>
+  <IsWheeledVehiclePassable>false</IsWheeledVehiclePassable>
+  <IsBuildable>false</IsBuildable>
+  <IsRunwaySuitable>false</IsRunwaySuitable>
+  <SlopeCategoryDefEnum>Impassable</SlopeCategoryDefEnum>
+  <Description>Impassable cliff face. Requires climbing equipment. Natural barrier. 50% grade = 26.6°, 100% = 45°.</Description>
+  <Name>Impassable</Name>
+  <ShortName>Cliff</ShortName>
+</SlopeCategoryDef>

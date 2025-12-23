@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Unit ID="Combined Fleet Headquarters">
+  <UnitTierDef>Regional Command</UnitTierDef>
+  <PopDef>Japanese</PopDef>
+  <Empire>Japan</Empire>
+  <Name>Unit Combined Fleet Headquarters</Name>
+  <ShortName>UCFH</ShortName>
+  <PixelFootprint>819334040</PixelFootprint>
+</Unit>

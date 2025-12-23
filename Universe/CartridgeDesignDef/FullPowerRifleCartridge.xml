@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CartridgeDesignDef ID="Full Power Rifle Cartridge" Enum="FullPowerRifleCartridge">
+  <DefaultCaseType>Rimmed</DefaultCaseType>
+  <MinCaseBodyDiameter_mm>10</MinCaseBodyDiameter_mm>
+  <MaxCaseBodyDiameter_mm>15</MaxCaseBodyDiameter_mm>
+  <DefaultCaseBodyDiameter_mm>12.7</DefaultCaseBodyDiameter_mm>
+  <MinCaseLength_mm>50</MinCaseLength_mm>
+  <MaxCaseLength_mm>65</MaxCaseLength_mm>
+  <DefaultCaseLength_mm>63</DefaultCaseLength_mm>
+  <DefaultCaseMaterial>Copper: Brass</DefaultCaseMaterial>
+  <MinCaseWallThickness_mm>1.5</MinCaseWallThickness_mm>
+  <MaxCaseWallThickness_mm>3</MaxCaseWallThickness_mm>
+  <DefaultCaseWallThickness_mm>2</DefaultCaseWallThickness_mm>
+  <MinCaseNeckDiameter_mm>7</MinCaseNeckDiameter_mm>
+  <MaxCaseNeckDiameter_mm>9</MaxCaseNeckDiameter_mm>
+  <DefaultCaseNeckDiameter_mm>8.4</DefaultCaseNeckDiameter_mm>
+  <MinCaseShoulderDiameter_mm>10</MinCaseShoulderDiameter_mm>
+  <MaxCaseShoulderDiameter_mm>13</MaxCaseShoulderDiameter_mm>
+  <DefaultCaseShoulderDiameter_mm>11.2</DefaultCaseShoulderDiameter_mm>
+  <MinCaseHeadToShoulderLength_mm>40</MinCaseHeadToShoulderLength_mm>
+  <MaxCaseHeadToShoulderLength_mm>50</MaxCaseHeadToShoulderLength_mm>
+  <DefaultCaseHeadToShoulderLength_mm>44</DefaultCaseHeadToShoulderLength_mm>
+  <MinCaseShoulderAngle_degrees>0</MinCaseShoulderAngle_degrees>
+  <MaxCaseShoulderAngle_degrees>60</MaxCaseShoulderAngle_degrees>
+  <DefaultCaseShoulderAngle_degrees>20</DefaultCaseShoulderAngle_degrees>
+  <MinOverallLength_mm>70</MinOverallLength_mm>
+  <MaxOverallLength_mm>90</MaxOverallLength_mm>
+  <DefaultOverallLength_mm>85</DefaultOverallLength_mm>
+  <MinPropellantCharge_grams>40</MinPropellantCharge_grams>
+  <MaxPropellantCharge_grams>60</MaxPropellantCharge_grams>
+  <DefaultPropellantCharge_grams>50</DefaultPropellantCharge_grams>
+  <DefaultPropellantMaterial>Propellant: Smokeless: Single Base</DefaultPropellantMaterial>
+  <MinProjectileDiameter_mm>7</MinProjectileDiameter_mm>
+  <MaxProjectileDiameter_mm>9</MaxProjectileDiameter_mm>
+  <DefaultProjectileDiameter_mm>7.82</DefaultProjectileDiameter_mm>
+  <CartridgeDesignDefEnum>FullPowerRifleCartridge</CartridgeDesignDefEnum>
+  <FirstTier>First</FirstTier>
+  <LastTier>First</LastTier>
+  <Name>Full Power Rifle Cartridge</Name>
+  <ShortName>FPRC</ShortName>
+</CartridgeDesignDef>

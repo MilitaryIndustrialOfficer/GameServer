@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementConversionDef ID="Centimeters" Enum="Centimeters">
+  <ConversionToBaseUnit>0.01</ConversionToBaseUnit>
+  <DisplaySymbol>cm</DisplaySymbol>
+  <DisplayPrecision>1</DisplayPrecision>
+  <PropertySuffixPatterns>
+    <Item>_cm</Item>
+  </PropertySuffixPatterns>
+  <IsCaliberUnit>false</IsCaliberUnit>
+  <MeasurementConversionDefEnum>Centimeters</MeasurementConversionDefEnum>
+  <MeasurementCategoryDef>Length</MeasurementCategoryDef>
+  <Name>Centimeters</Name>
+  <ShortName>C</ShortName>
+</MeasurementConversionDef>

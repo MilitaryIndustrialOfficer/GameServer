@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Unit ID="1st Marine Division">
+  <Commander>Vandegrift</Commander>
+  <UnitTierDef>Division</UnitTierDef>
+  <PopDef>American</PopDef>
+  <Empire>USA</Empire>
+  <Name>Unit 1st Marine Division</Name>
+  <ShortName>1st MarDiv</ShortName>
+  <PixelFootprint>1025274011,1025325011,1025376011,1025427011,1025427012</PixelFootprint>
+</Unit>

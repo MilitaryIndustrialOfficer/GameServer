@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpirePointDef ID="Authority" Enum="Authority">
+  <EmpirePointDefEnum>Authority</EmpirePointDefEnum>
+  <Name>Authority</Name>
+  <ShortName>A</ShortName>
+</EmpirePointDef>
