@@ -4,7 +4,8 @@
   <TaskForceOrderDef>Transit</TaskForceOrderDef>
   <QueueSequence>0</QueueSequence>
   <DeleteOnCompletion>true</DeleteOnCompletion>
-  <Status>Pending</Status>
+  <Status>InProgress</Status>
+  <TimeStarted>74998081</TimeStarted>
   <Waypoints>
     <Waypoint>
       <PixelIndex>974400000</PixelIndex>

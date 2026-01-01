@@ -2,7 +2,7 @@
 <Player ID="RemoteTestPlayer">
   <Codeword>remotetest123</Codeword>
   <Active>true</Active>
-  <PermitTurnToPass>true</PermitTurnToPass>
+  <PermitTurnToPass>false</PermitTurnToPass>
   <PlayerDef>Normal</PlayerDef>
   <Name>Player RemoteTestPlayer</Name>
   <Color>4289650086</Color>
