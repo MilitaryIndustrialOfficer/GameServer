@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TurretDesign ID="Triple 8in55 Turret Mark 9">
+  <DesignObjectDefinition>Heavy Cruiser Main Battery</DesignObjectDefinition>
+  <TurretType>FullyPowered</TurretType>
+  <RingDiameter_mm>7600</RingDiameter_mm>
+  <BasketDiameter_mm>7200</BasketDiameter_mm>
+  <RoofHeight_mm>4000</RoofHeight_mm>
+  <FrontalWidth_mm>9000</FrontalWidth_mm>
+  <SideLength_mm>8000</SideLength_mm>
+  <MaxTraverseSpeed_deg_s>5</MaxTraverseSpeed_deg_s>
+  <TraverseAcceleration_deg_s2>2</TraverseAcceleration_deg_s2>
+  <ManualTraverseRate_deg_crank>0.2</ManualTraverseRate_deg_crank>
+  <MaxElevation_deg>41</MaxElevation_deg>
+  <MaxDepression_deg>5</MaxDepression_deg>
+  <ElevationSpeed_deg_s>8</ElevationSpeed_deg_s>
+  <Stabilization>None</Stabilization>
+  <StabilizationAccuracy_mrad>999</StabilizationAccuracy_mrad>
+  <CrewCount>80</CrewCount>
+  <HasCommanderCupola>false</HasCommanderCupola>
+  <HasLoaderPosition>true</HasLoaderPosition>
+  <TurretMaterial>Steel: Armor: RHA</TurretMaterial>
+  <MagazineCapacity_rounds>300</MagazineCapacity_rounds>
+  <Name>Triple 8"/55 Turret Mark 9</Name>
+  <Color>4290302431</Color>
+  <ShortName>TTM</ShortName>
+</TurretDesign>

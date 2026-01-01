@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Universe>
+  <UniverseName>Test</UniverseName>
+  <ScenarioName>Test Scenario</ScenarioName>
+  <CurrentDate>
+    <OrizonDateTime>
+      <TotalMinutes>74998080</TotalMinutes>
+    </OrizonDateTime>
+  </CurrentDate>
+  <InitialDate>
+    <OrizonDateTime>
+      <TotalMinutes>74998080</TotalMinutes>
+    </OrizonDateTime>
+  </InitialDate>
+  <TurnLengthMinutes>60</TurnLengthMinutes>
+  <TurnNumber>0</TurnNumber>
+</Universe>

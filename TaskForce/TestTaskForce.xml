@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskForce ID="Test Task Force">
+  <Column>
+    <Interval_yards>500</Interval_yards>
+    <VesselClasses>
+      <Item>Carrier</Item>
+      <Item>Battleship</Item>
+      <Item>Cruiser</Item>
+      <Item>Destroyer</Item>
+      <Item>Submarine</Item>
+    </VesselClasses>
+    <Order>AsAssigned</Order>
+    <VanCount>0</VanCount>
+    <RearCount>0</RearCount>
+  </Column>
+  <GuideRule>LeadShip</GuideRule>
+  <Heading_deg>270</Heading_deg>
+  <PrimaryThreatAxis_deg>0</PrimaryThreatAxis_deg>
+  <Guide>V0</Guide>
+  <Flagship>V0</Flagship>
+  <TaskForceDef>NavalCustom</TaskForceDef>
+  <ActiveDisposition>Line Astern</ActiveDisposition>
+  <Empire>USA</Empire>
+  <Name>TaskForce Test Task Force</Name>
+  <Color>4284456608</Color>
+  <ShortName>TF-TEST</ShortName>
+</TaskForce>
