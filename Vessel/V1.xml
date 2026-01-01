@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Vessel ID="V1">
-  <CurrentHeading_deg>0</CurrentHeading_deg>
-  <DesiredHeading_deg>0</DesiredHeading_deg>
-  <CurrentSpeed_kts>0</CurrentSpeed_kts>
-  <DesiredSpeed_kts>0</DesiredSpeed_kts>
+  <CurrentHeading_deg>117.66543488020966</CurrentHeading_deg>
+  <DesiredHeading_deg>117.66543488020966</DesiredHeading_deg>
+  <CurrentSpeed_kts>18</CurrentSpeed_kts>
+  <DesiredSpeed_kts>18</DesiredSpeed_kts>
   <CurrentDepth_m>0</CurrentDepth_m>
   <DesiredDepth_m>0</DesiredDepth_m>
   <Position_nm>
-    <X>4</X>
-    <Y>-16.25</Y>
+    <X>16.76757939616918</X>
+    <Y>-16.040363999823413</Y>
   </Position_nm>
   <VesselDesign>New Orleans-class Heavy Cruiser</VesselDesign>
   <TaskForce>Test Task Force</TaskForce>
