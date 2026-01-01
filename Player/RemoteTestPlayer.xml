@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Player ID="RemoteTestPlayer">
+  <Codeword>remotetest123</Codeword>
+  <Active>true</Active>
+  <PermitTurnToPass>true</PermitTurnToPass>
+  <PlayerDef>Normal</PlayerDef>
+  <Name>Player RemoteTestPlayer</Name>
+  <Color>4291552175</Color>
+  <ShortName>PRTP</ShortName>
+</Player>
