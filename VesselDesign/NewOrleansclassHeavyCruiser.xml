@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VesselDesign ID="New Orleans-class Heavy Cruiser">
+  <DesignObjectDefinition>Heavy Cruiser</DesignObjectDefinition>
+  <LengthBP_ft>574</LengthBP_ft>
+  <BeamMax_ft>61.75</BeamMax_ft>
+  <HullDepth_ft>38</HullDepth_ft>
+  <BlockCoefficient>0.547</BlockCoefficient>
+  <WaterplaneCoefficient>0.7</WaterplaneCoefficient>
+  <AdmiraltyCoefficient>151</AdmiraltyCoefficient>
+  <DesignEnvironment>OceanUnrestricted</DesignEnvironment>
+  <FuelCapacity_tons>2195</FuelCapacity_tons>
+  <FuelType>FuelOil_Heavy</FuelType>
+  <Name>New Orleans-class Heavy Cruiser</Name>
+  <Color>4290504671</Color>
+  <ShortName>NOHC</ShortName>
+</VesselDesign>

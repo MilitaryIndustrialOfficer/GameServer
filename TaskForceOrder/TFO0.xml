@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskForceOrder ID="TFO0">
+  <TaskForce>Test Task Force</TaskForce>
+  <TaskForceOrderDef>Transit</TaskForceOrderDef>
+  <QueueSequence>0</QueueSequence>
+  <DeleteOnCompletion>true</DeleteOnCompletion>
+  <Status>Pending</Status>
+  <Waypoints>
+    <Waypoint>
+      <PixelIndex>974400000</PixelIndex>
+    </Waypoint>
+  </Waypoints>
+  <CurrentWaypointIndex>0</CurrentWaypointIndex>
+  <DefaultSpeed_knots>15</DefaultSpeed_knots>
+  <Name>Transit (TF-TEST)</Name>
+  <Color>4284456608</Color>
+  <ShortName>TTFTEST</ShortName>
+  <Waypoints>
+    <Waypoint>
+      <PixelIndex>974400000</PixelIndex>
+    </Waypoint>
+  </Waypoints>
+</TaskForceOrder>

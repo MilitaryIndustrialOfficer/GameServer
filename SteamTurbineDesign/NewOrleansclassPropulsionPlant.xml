@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SteamTurbineDesign ID="New Orleans-class Propulsion Plant">
+  <DesignObjectDefinition>Steam Turbine: Moderate Pressure</DesignObjectDefinition>
+  <BoilerCount>8</BoilerCount>
+  <BoilerType>WaterTube_Babcock</BoilerType>
+  <SteamPressure_psi>400</SteamPressure_psi>
+  <SteamTemperature_F>650</SteamTemperature_F>
+  <SteamRate_lb_per_hp_hr>12.5</SteamRate_lb_per_hp_hr>
+  <TurbineCount>4</TurbineCount>
+  <TurbineType>Westinghouse</TurbineType>
+  <TurbineStages>2</TurbineStages>
+  <TurbineRPM>4500</TurbineRPM>
+  <HasReductionGear>true</HasReductionGear>
+  <GearRatio>12</GearRatio>
+  <ShaftCount>4</ShaftCount>
+  <SHP_Total>107000</SHP_Total>
+  <FuelType>FuelOil_Heavy</FuelType>
+  <FuelConsumption_tons_per_hour>11</FuelConsumption_tons_per_hour>
+  <Name>New Orleans-class Propulsion Plant</Name>
+  <Color>4290962148</Color>
+  <ShortName>NOPP</ShortName>
+</SteamTurbineDesign>
