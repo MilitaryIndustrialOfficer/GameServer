@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Player ID="BLUE">
   <Active>false</Active>
-  <PermitTurnToPass>false</PermitTurnToPass>
+  <PermitTurnToPass>true</PermitTurnToPass>
   <PlayerDef>Normal</PlayerDef>
   <Name>Player BLUE</Name>
   <Color>4290433501</Color>
