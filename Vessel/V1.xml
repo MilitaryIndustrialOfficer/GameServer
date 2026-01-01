@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vessel ID="V1">
+  <CurrentHeading_deg>0</CurrentHeading_deg>
+  <DesiredHeading_deg>0</DesiredHeading_deg>
+  <CurrentSpeed_kts>0</CurrentSpeed_kts>
+  <DesiredSpeed_kts>0</DesiredSpeed_kts>
+  <CurrentDepth_m>0</CurrentDepth_m>
+  <DesiredDepth_m>0</DesiredDepth_m>
+  <Position_nm>
+    <X>4</X>
+    <Y>-16.25</Y>
+  </Position_nm>
+  <VesselDesign>New Orleans-class Heavy Cruiser</VesselDesign>
+  <TaskForce>Test Task Force</TaskForce>
+  <Empire>USA</Empire>
+  <Name>USS Minneapolis</Name>
+  <Color>4284456608</Color>
+  <ShortName>CA-36</ShortName>
+</Vessel>
